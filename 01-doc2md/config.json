@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "pandoc_args": "--wrap none -t markdown+escaped_line_breaks",
+    "input": "input/1._Lektsii_smontirovanniye_do_2012_goda/Transkriptsii_DOC_RTF",
+    "output": "output/01-doc2md/01"
+}, {
+    "id": 2,
+    "pandoc_args": "--wrap none -t markdown+escaped_line_breaks",
+    "input": "input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Transkriptsii_DOC_RTF",
+    "output": "output/01-doc2md/02"
+}, {
+    "id": 3,
+    "pandoc_args": "--wrap none -t markdown+escaped_line_breaks",
+    "input": "input/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Transkriptsii_DOC_RTF",
+    "output": "output/01-doc2md/03"
+}]

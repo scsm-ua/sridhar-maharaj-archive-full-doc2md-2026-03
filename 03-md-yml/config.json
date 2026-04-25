@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "input": "output/02-md-improve/01",
+    "output": "output/03-md-yml/01",
+    "mp3_base": "https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/"
+}, {
+    "id": 2,
+    "input": "output/02-md-improve/02",
+    "output": "output/03-md-yml/02",
+    "mp3_base": "https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/"
+}, {
+    "id": 3,
+    "input": "output/02-md-improve/03",
+    "output": "output/03-md-yml/03",
+    "mp3_base": "https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/"
+}]

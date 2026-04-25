@@ -1,0 +1,114 @@
+- [](../output/03-md-yml/01/1980_07_11_SridharMj_Negativnoe_slujit_pozitivnomu.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1980_07_11_SridharMj_Negativnoe_slujit_pozitivnomu.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1980.07.11_SridharMj_Negativnoe_slujit_pozitivnomu.mp3
+- [](../output/03-md-yml/01/1981.02.28_SridharMj_Mir_Prekrasnoy_Realnosti.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1981.02.28_SridharMj_Mir_Prekrasnoy_Realnosti.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1981.03.02_SridharMj_Mir_Prekrasnoy_Realnosti.mp3
+- [](../output/03-md-yml/01/1982.05.09.C_SridharMj_Bojestvennye_deyaniya_Mahaprabhu.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1982.05.09.C_SridharMj_Bojestvennye_deyaniya_Mahaprabhu.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1982.05.09_SridharMj_Bojestvennye_deyaniya_Mahaprabhu.mp3
+- [](../output/03-md-yml/01/1983.01.14_sridharmj_sanyasa_mahaprabhu_part1.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.01.14_sridharmj_sanyasa_mahaprabhu_part1.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3
+- [](../output/03-md-yml/01/1983.01.15_sridharmj_sanyasa_mahaprabhu_part2.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.01.15_sridharmj_sanyasa_mahaprabhu_part2.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
+- [](../output/03-md-yml/01/1983.02.21_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.02.21_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.02.21_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
+- [](../output/03-md-yml/02/1982.02.19.B1.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.02.19.B1.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.02.19.B1%20%28MPR_7.4%29.mp3
+- [](../output/03-md-yml/02/1982.02.24.A2.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.02.24.A2.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.02.24.A2%20%28%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%B0%D1%82%D0%B0%29.mp3
+- [](../output/03-md-yml/02/1982.02.24.B.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.02.24.B.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.02.24.B%20%28%D0%BA%D0%BE%D0%BD%D0%B5%D1%86%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%2C%20%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%9E%D0%9F%D0%A0%206%29.mp3
+- [](../output/03-md-yml/02/1982.04.25.A2.B_Siksastaka_sloka1.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.25.A2.B_Siksastaka_sloka1.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.25.A2.B.mp3
+- [](../output/03-md-yml/02/1982.04.27.B2.C1_Siksastaka_Sloki_2-4.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.27.B2.C1_Siksastaka_Sloki_2-4.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.27.B2.C1.mp3
+- [](../output/03-md-yml/02/1982.04.28.A.B_Siksastakam_Sloki_5-8.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.28.A.B_Siksastakam_Sloki_5-8.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.28.A.B.mp3
+- [](../output/03-md-yml/02/1982.04.29.A2_SridharMj_Sri_Rupa_Manjari_pada.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A2_SridharMj_Sri_Rupa_Manjari_pada.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A2.mp3
+- [](../output/03-md-yml/02/1982.04.29.A3_SridharMj.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A3_SridharMj.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A3.mp3
+- [](../output/03-md-yml/02/1982.04.29.A4_SridharMj_Sanatan_Goswami.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A4_SridharMj_Sanatan_Goswami.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A4.mp3
+- [](../output/03-md-yml/02/1982.04.29.A5_SridharMj_Bhavagrahi_Janardana.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A5_SridharMj_Bhavagrahi_Janardana.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.04.29.A5.mp3
+- [](../output/03-md-yml/02/1982.05.05.В1.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.05.05.%D0%921.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.05.05.B1.mp3
+- [](../output/03-md-yml/02/1982.05.05.В2.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.05.05.%D0%922.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.05.05.B2.mp3
+- [](../output/03-md-yml/02/1982.05.12.А.В1.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.05.12.%D0%90.%D0%921.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.05.12.A.B1.mp3
+- [](../output/03-md-yml/02/1982.06.15.A1_SridharMj_Obsujdenie_nazvaniya_knigi_Poisk_Sri_Krishny.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.06.15.A1_SridharMj_Obsujdenie_nazvaniya_knigi_Poisk_Sri_Krishny.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.06.15.A1.mp3
+- [](../output/03-md-yml/02/1982.07.07.A.B_SridharMj_Den_uhoda_Sanatany_Goswami_Prabhu.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.07.07.A.B_SridharMj_Den_uhoda_Sanatany_Goswami_Prabhu.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.07.07.A.B.mp3
+- [](../output/03-md-yml/02/1982.07.08.A1_SridharMj_Vozvrawenie_v_Shrivas_Angan.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.07.08.A1_SridharMj_Vozvrawenie_v_Shrivas_Angan.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1982.07.08.A1.mp3
+- [](../output/03-md-yml/02/1983.11.08.A.B1 отредактировано для сайта Харекришна.ру.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.08.A.B1%20%D0%BE%D1%82%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B8%CC%86%D1%82%D0%B0%20%D0%A5%D0%B0%D1%80%D0%B5%D0%BA%D1%80%D0%B8%D1%88%D0%BD%D0%B0.%D1%80%D1%83.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.08.A.B1.mp3
+- [](../output/03-md-yml/02/1983.11.08.B2 отредактированно для сайта харекришна.ру.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.08.B2%20%D0%BE%D1%82%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B8%CC%86%D1%82%D0%B0%20%D1%85%D0%B0%D1%80%D0%B5%D0%BA%D1%80%D0%B8%D1%88%D0%BD%D0%B0.%D1%80%D1%83.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.08.B2.mp3
+- [](../output/03-md-yml/02/1983.11.13.А1.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.13.%D0%901.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.13.A1.mp3
+- [](../output/03-md-yml/02/1983.11.26.В2.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.26.%D0%922.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3/1983.11.26.B2.mp3
+- [](../output/03-md-yml/03/1981.09.21.AB_ru.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1981.09.21.AB_ru.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1981.09.21.A.B_ru.mp3
+- [](../output/03-md-yml/03/1981.09.22.AB_ru.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1981.09.22.AB_ru.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1981.09.22.A.B_ru.mp3
+- [](../output/03-md-yml/03/1982.10.25.A.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.25.A.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.25.A_ru.mp3
+- [](../output/03-md-yml/03/1982.10.25.B.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.25.B.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.25.B_ru.mp3
+- [](../output/03-md-yml/03/1982.10.27.AB.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.27.AB.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.27.A.B_ru.mp3
+- [](../output/03-md-yml/03/1982.10.28.A.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.28.A.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.28.A_ru.mp3
+- [](../output/03-md-yml/03/1982.10.29.ABC.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.29.ABC.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.29.A.B.C_ru.mp3
+- [](../output/03-md-yml/03/1982.10.30.AB.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.30.AB.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3/1982.10.30.A.B_ru.mp3
+- [](../output/03-md-yml/01/1983.02.21_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi_(drugoy_perevod).md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.02.21_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi_(drugoy_perevod).mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.02.21%28drugoy_perevod%29_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
+- [](../output/03-md-yml/01/1981.08.19_SridharMj_Fundament_Predannogo_Slujeniya.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1981.08.19_SridharMj_Fundament_Predannogo_Slujeniya.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1981.08.19.SridharMj_Fundament_Predannogo_Slujeniya.mp3
+- [](../output/03-md-yml/01/1982.01.27-v2_SridharMj.md) MP3 unexpected status 403: 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1982.01.27-v2_SridharMj.mp3
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1982.01.27_SridharMj.mp3
+- [](../output/03-md-yml/01/1983.02.21-v2_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi_(drugoy_perevod).md) MP3 unexpected status 403:
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.02.21-v2_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi_(drugoy_perevod).mp3 
+- https://ams3.digitaloceanspaces.com/sridharmaharaj/a/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3/1983.02.21%28drugoy_perevod%29_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3

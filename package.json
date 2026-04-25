@@ -1,0 +1,15 @@
+{
+  "name": "shridhar-maharaj-full-classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "iconv-lite": "^0.7.2",
+    "js-yaml": "^4.1.1"
+  }
+}

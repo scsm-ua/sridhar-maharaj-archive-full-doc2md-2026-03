@@ -1,0 +1,22 @@
+{
+    "groups": [{
+        "id": 1,
+        "input": "output/03-md-yml/01",
+        "mp3": "input/1._Lektsii_smontirovanniye_do_2012_goda/Audio_MP3"
+    }, {
+        "id": 2,
+        "input": "output/03-md-yml/02",
+        "mp3": "input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Audio_MP3"
+    }, {
+        "id": 3,
+        "input": "output/03-md-yml/03",
+        "mp3": "input/3._Lektsii_smontirovanniye_s_2015_do_2020_goda/Audio_MP3"
+    }],
+    "output": {
+        "docs_rename": "output/04-rename/docs-rename.json",
+        "mp3_rename": "output/04-rename/mp3-rename.json",
+        "docs": "output/04-rename/docs",
+        "mp3": "output/04-rename/mp3"
+    },
+    "mp3_base": "https://ams3.digitaloceanspaces.com/sridharmaharaj/ru/"
+}

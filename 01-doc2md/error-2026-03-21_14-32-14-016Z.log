@@ -1,0 +1,25 @@
+[2026-03-21T14:32:29.841Z]   ✗ Error converting 1982.05.06.B.rtf: Error at "/Users/nazar/Documents/workspace/_nadev/shridhar-maharaj-full-classes/input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Transkriptsii_DOC_RTF/1982.05.06.B.rtf" (line 513, column 144):
+unexpected ','
+\f39\fs22\insrsid14433062 ? }{\rtlch\fcs1 \af39\afs22 \ltrch\fcs0 \i\f39\fs22\insrsid14433062\charrsid14433062 '\'ca\'e5 \'e0\u772\'3f\'ec\'e8', '\'ea\'e5\'ed\'e5 \'e0\u772\'3f\'ec\'e0\u772\'3f\'e9\'e0 \'e4\'e6\'e0\u772\'3f\'f0\'e5 \'f2\'e0\u772\'3f\'ef
+                                                                                                                                               ^
+
+[2026-03-21T14:32:29.911Z]   ✗ Error converting 1982.05.07.A.rtf: Error at "/Users/nazar/Documents/workspace/_nadev/shridhar-maharaj-full-classes/input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Transkriptsii_DOC_RTF/1982.05.07.A.rtf" (line 344, column 234):
+unexpected '-'
+\af3209\afs24 \ltrch\fcs0 \i\f3209\fs20\lang1049\langfe1033\langfenp1033\insrsid14041025\charrsid14041025 \'f2}{\rtlch\fcs1 \af290\afs24 \ltrch\fcs0 \i\f290\fs20\lang1049\langfe1033\langfenp1033\insrsid14041025\charrsid14041025 \'e0'-\'f3\'ef\'e0\'e4\'e5
+                                                                                                                                                                                                                                         ^
+
+[2026-03-21T14:32:32.830Z]   ✗ Error converting 1982.05.15.B2.rtf: Error at "/Users/nazar/Documents/workspace/_nadev/shridhar-maharaj-full-classes/input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Transkriptsii_DOC_RTF/1982.05.15.B2.rtf" (line 482, column 82):
+unexpected '-'
+\b\f39\fs24\lang1049\langfe1033\langfenp1033\insrsid9513961\charrsid9513961 \'e0'-\'f3\'ef\'e0\'e4\'e5\'f8}{\rtlch\fcs1 \af701\afs24 \ltrch\fcs0 \b\f701\fs24\lang1049\langfe1033\langfenp1033\insrsid9513961\charrsid9513961 \'ec}{\rtlch\fcs1 \af39\afs24 
+                                                                                 ^
+
+[2026-03-21T14:32:33.818Z]   ✗ Error converting 1982.05.18.E.rtf: Error at "/Users/nazar/Documents/workspace/_nadev/shridhar-maharaj-full-classes/input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Transkriptsii_DOC_RTF/1982.05.18.E.rtf" (line 648, column 75):
+unexpected '-'
+\af39\afs22 \ltrch\fcs0 \b\f39\fs22\insrsid13834354\charrsid13834354 \'e0'-\'f3\'ef\'e0\'e4\'e5\'f8}{\rtlch\fcs1 \af696\afs22 \ltrch\fcs0 \b\f696\fs22\insrsid13834354\charrsid13834354 \'ec}{\rtlch\fcs1 \af39\afs22 \ltrch\fcs0 
+                                                                          ^
+
+[2026-03-21T14:32:41.898Z]   ✗ Error converting 1983.11.05.A.B.rtf: Error at "/Users/nazar/Documents/workspace/_nadev/shridhar-maharaj-full-classes/input/2._Lektsii_smontirovanniye_s_2012_do_2015_goda/Transkriptsii_DOC_RTF/1983.11.05.A.B.rtf" (line 652, column 178):
+unexpected ','
+\rtlch\fcs1 \ab\af39\afs20 \ltrch\fcs0 \i\f39\fs20\lang1049\langfe1033\langfenp1033\ulc18\insrsid13445877\charrsid13445877 \'e2\'e8\'f7\'e0\'ea\'f8\'e0\'ed\'e0 \'ea\'ee\'f0\'e8', \'e4\'e5\'ea\'f5\'e8\'f2\'e5 \'f7\'e0\'f5\'e8\'eb\'e5}{\rtlch\fcs1 
+                                                                                                                                                                                 ^
+

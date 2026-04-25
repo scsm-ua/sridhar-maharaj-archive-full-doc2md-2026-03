@@ -1,0 +1,671 @@
+- [](../output/03-md-yml/01/1973.03.00.AB_Shridhar_Mj_i_Bkhaktivedanty_Svami_na_otkrytii_Chandroday_Mandira.md) no editors found
+- [](../output/03-md-yml/01/1980_07_11_SridharMj_Negativnoe_slujit_pozitivnomu.md) no editors found
+- [](../output/03-md-yml/01/1981.02.28_SridharMj_Mir_Prekrasnoy_Realnosti.md) no editors found
+- [](../output/03-md-yml/01/1981.03.01_SridharMj_Dusha_chastica_soznaniya.md) no editors found
+- [](../output/03-md-yml/01/1981.03.02_SridharMj_Forma_i_sut.md) no editors found
+- [](../output/03-md-yml/01/1981.03.02_SridharMj_Forma_i_sut.md) title extracted from header: "Три типа гуру и вайшнавов. Об искренности. Все виды долга подчинены киртану"
+- [](../output/03-md-yml/01/1981.03.03_SridharMj_Golos_sovesti.md) no editors found
+- [](../output/03-md-yml/01/1981.03.04_SridharMj_Nadmirnaya_priroda_Vayshnava.md) no editors found
+- [](../output/03-md-yml/01/1981.03.05_SridharMj_Subyektivnaya_Evoluciya.md) no editors found
+- [](../output/03-md-yml/01/1981.03.06_SridharMj_Proishojdenie_dushi.md) no editors found
+- [](../output/03-md-yml/01/1981.03.13_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.md) no editors found
+- [](../output/03-md-yml/01/1981.08.12_SridharMj_Carstvo_lubvi.md) no editors found
+- [](../output/03-md-yml/01/1981.08.13.B_SridharMj_Mentalnaya_realnost.md) no editors found
+- [](../output/03-md-yml/01/1981.08.14_SridharMj_Guru_est_ohranitel_i_pribejiwe_uchenika.md) no editors found
+- [](../output/03-md-yml/01/1981.08.18_SridharMj_Priroda_bytiya.md) no editors found
+- [](../output/03-md-yml/01/1981.08.19_SridharMj_Fundament_Predannogo_Slujeniya.md) no editors found
+- [](../output/03-md-yml/01/1981.08.20_SridharMj_Iznachalnaya_Realnost.md) no editors found
+- [](../output/03-md-yml/01/1981.08.22_SridharMj_Gradaciya_teisticheskoy_mysli.md) no editors found
+- [](../output/03-md-yml/01/1981.08.27.A_SridharMj_Absolutnoe_i_otnositelnoe_polojenie.md) no editors found
+- [](../output/03-md-yml/01/1981.08.27.C_SridharMj_Tri_urovnya_predannyh.md) no editors found
+- [](../output/03-md-yml/01/1981.08.28.A_SridharMj_Duhovniy_potok_ne_zavisit_ot_materialnyh_realiy.md) no editors found
+- [](../output/03-md-yml/01/1981.08.28.B_SridharMj_Samopojertvovanie_i_samovozvelichivanie.md) no editors found
+- [](../output/03-md-yml/01/1981.08.28.C_SridharMj_Iskrennost_nepobedima.md) no editors found
+- [](../output/03-md-yml/01/1981.08.30.A_SridharMj_Sokrovische_Guru.md) no editors found
+- [](../output/03-md-yml/01/1981.08.30.B_SridharMj_Klyuch_ot_dverey_Carstva_Bojego.md) no editors found
+- [](../output/03-md-yml/01/1981.08.31_SridharMj_Put_samopredaniya.md) no editors found
+- [](../output/03-md-yml/01/1981.11.12_SridharMj_Pribezishe.md) no editors found
+- [](../output/03-md-yml/01/1981.11.29_SridharMj_Vaishnava_and_Varnashrama.md) no editors found
+- [](../output/03-md-yml/01/1981.12.01_SridharMj_Bozestvennoye_Znaniye.md) no editors found
+- [](../output/03-md-yml/01/1982.01.01_SridharMj_Otnocsheniya_Guru_i_uchenika.md) no editors found
+- [](../output/03-md-yml/01/1982.01.03_SridharMj_Pesn_fleyty_Krishny.md) no editors found
+- [](../output/03-md-yml/01/1982.01.04.C_SridharMj_Slujenie_vayshnavu_vyshe_pokloneniya_bojestvu.md) no editors found
+- [](../output/03-md-yml/01/1982.01.04_SridharMj_Bezgranichnaya_milost_Nityanandy_Prabhu.md) no editors found
+- [](../output/03-md-yml/01/1982.01.05.A_Istoriya_Djagaya_i_Madhaya.md) no editors found
+- [](../output/03-md-yml/01/1982.01.05_SridharMj_Polojenie_Gospoda_Shivy.md) no editors found
+- [](../output/03-md-yml/01/1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.md) no editors found
+- [](../output/03-md-yml/01/1982.01.07_SridharMj_Velichie_Imeni_Gospoda.md) no editors found
+- [](../output/03-md-yml/01/1982.01.08.A_SridharMj_Mantra_OM.md) no editors found
+- [](../output/03-md-yml/01/1982.01.08.C_SridharMj_Velichie_samopojertvovaniya_(polojenie_SrimatiRadharani).md) no editors found
+- [](../output/03-md-yml/01/1982.01.09.А_SridharMj_Proishojdenie_dushi.md) no editors found
+- [](../output/03-md-yml/01/1982.01.09_SridharMj_Vlechenie_sut_vsego_bytiya.md) no editors found
+- [](../output/03-md-yml/01/1982.01.11.A_SridharMj_Ramananda_samvada.md) no editors found
+- [](../output/03-md-yml/01/1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu.md) no editors found
+- [](../output/03-md-yml/01/1982.01.12.B_SridharMj_Cel_jizni_vayshnava.md) no editors found
+- [](../output/03-md-yml/01/1982.01.12.C_SridharMj_Progress_na_duhovnom%20puti.md) no editors found
+- [](../output/03-md-yml/01/1982.01.13.A_Istorii_iz_svyawennyh_pisaniy.md) no editors found
+- [](../output/03-md-yml/01/1982.01.13.B_Soznanie_prichina_vsego.md) no editors found
+- [](../output/03-md-yml/01/1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.md) no editors found
+- [](../output/03-md-yml/01/1982.01.17_SridharMj_Bojestvennaya_lubov.md) no editors found
+- [](../output/03-md-yml/01/1982.01.18_SridharMj_O_Verhovnom_polojenii_Krishny_i_prirode_Mayi.md) no editors found
+- [](../output/03-md-yml/01/1982.01.19_SridharMj_Estestvo_dushi.md) no editors found
+- [](../output/03-md-yml/01/1982.01.20_SridharMj_Vse_suwestvuet_po_vole_Boga.md) no editors found
+- [](../output/03-md-yml/01/1982.01.21_SridharMj_V_brennom_mire_pechal_i_radost_illuzorny.md) no editors found
+- [](../output/03-md-yml/01/1982.01.22.A_SridharMj_Nauchis_videt_glazami_svyawennyh_pisaniy.md) no editors found
+- [](../output/03-md-yml/01/1982.01.24.A_SridharMj_Materiya_eto_proizvodnaya_soznaniya.md) no editors found
+- [](../output/03-md-yml/01/1982.01.24.B_SridharMj_Ideal_samopojertvovaniya.md) no editors found
+- [](../output/03-md-yml/01/1982.01.25_SridharMj_Gradaciya_schastya.md) no editors found
+- [](../output/03-md-yml/01/1982.01.26_SridharMj_Vnutrennyaya_priroda_vayshnava.md) no editors found
+- [](../output/03-md-yml/01/1982.01.27-v2_SridharMj.md) no editors found
+- [](../output/03-md-yml/01/1982.01.27_SridharMj_Sila_transcendentnogo_zvuka.md) no editors found
+- [](../output/03-md-yml/01/1982.01.28_SridharMj_Vera_i_iskrennost.md) no editors found
+- [](../output/03-md-yml/01/1982.01.29_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.md) no editors found
+- [](../output/03-md-yml/01/1982.01.29_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.md) title extracted from header: "Сарасвати Тхакур - олицетворение Хари-киртана"
+- [](../output/03-md-yml/01/1982.01.30.B_SridharMj_SaraswatiPudja_VishnupriyaDevi_RaghunathDasGoswami.md) no editors found
+- [](../output/03-md-yml/01/1982.01.30.B_SridharMj_SaraswatiPudja_VishnupriyaDevi_RaghunathDasGoswami.md) title extracted from header: "Богиня Сарасвати, Шри Вишнуприя Деви, Пундарик Видьянидхи, Рагхунатх Дас Госвами, Вишванатх Чакраварти, Рагхунандан Тхакур"
+- [](../output/03-md-yml/01/1982.01.31_SridharMj_Ispytaniya_na_duhovnom_puti.md) no editors found
+- [](../output/03-md-yml/01/1982.02.14_SridharMj_Sut_Mantry_Gayatri.md) no editors found
+- [](../output/03-md-yml/01/1982.02.15_SridharMj_Duhovnoe_posvyawenie.md) no editors found
+- [](../output/03-md-yml/01/1982.02.17_SridharMj_Subyektivnaya_realnost.md) no editors found
+- [](../output/03-md-yml/01/1982.05.09.C_SridharMj_Bojestvennye_deyaniya_Mahaprabhu.md) no editors found
+- [](../output/03-md-yml/01/1983.01.01_SridharMj_Bezuslovnaya_predannost.md) no editors found
+- [](../output/03-md-yml/01/1983.01.02_SridharMj_Jizn_posle_smerti.md) no editors found
+- [](../output/03-md-yml/01/1983.01.04_SridharMj_Pogruzitsya_v_realnost.md) no editors found
+- [](../output/03-md-yml/01/1983.01.05_SridharMj_Blagaya_vera.md) no editors found
+- [](../output/03-md-yml/01/1983.01.06_SridharMj_Razvitie_v_teisticheskom_mire.md) no editors found
+- [](../output/03-md-yml/01/1983.01.07_SridharMj_Kluch_k_visshey_realnosti.md) no editors found
+- [](../output/03-md-yml/01/1983.01.10_SridharMj_Stremlenie_ogranichennogo_k_bezgranichnomu.md) no editors found
+- [](../output/03-md-yml/01/1983.01.11_SridharMj_Otnosheniya_dushi_s_Bogom.md) no editors found
+- [](../output/03-md-yml/01/1983.01.12_SridharMj_Priroda_predannosti.md) no editors found
+- [](../output/03-md-yml/01/1983.01.14_sridharmj_sanyasa_mahaprabhu_part1.md) no editors found
+- [](../output/03-md-yml/01/1983.01.14_sridharmj_sanyasa_mahaprabhu_part1.md) title extracted from header: "SridharMj_Sanyasa_Mahaprabhu_part1"
+- [](../output/03-md-yml/01/1983.01.15_sridharmj_sanyasa_mahaprabhu_part2.md) no editors found
+- [](../output/03-md-yml/01/1983.01.21.A_SridharMj_Put_v_mir_bessmertiya.md) no editors found
+- [](../output/03-md-yml/01/1983.01.22.B_SridharMj_Priroda_egoizma.md) no editors found
+- [](../output/03-md-yml/01/1983.01.25_SridharMj_Visshee_blago.md) no editors found
+- [](../output/03-md-yml/01/1983.01.26.B,C_SridharMj_Bojestvennaya_lubov.md) no editors found
+- [](../output/03-md-yml/01/1983.01.30_SridharMj_Priroda_dushi.md) no editors found
+- [](../output/03-md-yml/01/1983.01.31_SridharMj_Peredacha_duhovnogo_znaniya.md) no editors found
+- [](../output/03-md-yml/01/1983.02.01_SridharMj_Svyatie_mesta.md) no editors found
+- [](../output/03-md-yml/01/1983.02.01_SridharMj_Svyatie_mesta.md) possible unrecognized editor line (name "Лочан Дас" found): "**Преданный:** Лочан Дас --- один... Похоже, что они неаутентичны..."
+- [](../output/03-md-yml/01/1983.02.01_SridharMj_Svyatie_mesta.md) possible unrecognized editor line (name "Лочан Дас" found): "Но Лочан Дас и многие, кто имели связь с Вишнуприей, с помощью Вишнуприи, жены Махапрабху, обрели связь с Гаурангой, Нимаем Пандитом [имеется в виду девушкой, женщиной --- *переводчик*]. Вриндаван Дас Тхакур отверг это как плод воображения. Такая тенденция --- глупая тенденция: уподаблять, пытаться сделать схожей *кришна-лилу* и *гаура-лилу*. Такая фантазия. Поэтому мы не согласны с Лочаном Дасом в этом отношении. И многие другие --- Рупа Госвами, Санатана Госвами, Дас Госвами, Кавирадж Госвами, Вриндаван Дас Тхакур, --- столь многие описали Махапрабху, но никто не описывал Его таким. Очень строгим моралистом Он был в Своей предыдущей жизни, до принятия *санньясы*."
+- [](../output/03-md-yml/01/1983.02.06_SridharMj_Antologiya_lubvi.md) no editors found
+- [](../output/03-md-yml/01/1983.02.07_SridharMj_Lubov_irracionalna.md) no editors found
+- [](../output/03-md-yml/01/1983.02.11_SridharMj_Razluka.md) no editors found
+- [](../output/03-md-yml/01/1983.02.12_SridharMj_Puteshestvie_v_mir_Predannosti.md) no editors found
+- [](../output/03-md-yml/01/1983.02.13_SridharMj_Poisk_samogo_sebya.md) no editors found
+- [](../output/03-md-yml/01/1983.02.13_SridharMj_Poisk_samogo_sebya.md) title extracted from header: "Поиск самого себя"
+- [](../output/03-md-yml/01/1983.02.14_SridharMj_Otrechenie.md) no editors found
+- [](../output/03-md-yml/01/1983.02.18_SridharMj_Vera_vishe_znaniya.md) no editors found
+- [](../output/03-md-yml/01/1983.02.19_SridharMj_Guru.md) no editors found
+- [](../output/03-md-yml/01/1983.02.20_SridharMj_Tridanda_Mahaprabhu.md) no editors found
+- [](../output/03-md-yml/01/1983.02.21-v2_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi_(drugoy_perevod).md) no editors found
+- [](../output/03-md-yml/01/1983.02.21_SridharMj_Istorii_jizni_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.md) no editors found
+- [](../output/03-md-yml/01/1983.02.26_SridharMj_Soznanie.md) no editors found
+- [](../output/03-md-yml/01/1983.03.02_SridharMj_Vzaimootnosheniya_nastavnika_i_uchenika.md) no editors found
+- [](../output/03-md-yml/01/1983.03.04_SridharMj_O_nizmennosti_upotrebleniya_narkoticheskih_vewestv.md) no editors found
+- [](../output/03-md-yml/01/1983.03.08_SridharMj_Krasota_Gospoda.md) no editors found
+- [](../output/03-md-yml/01/1983.03.16_SridharMj_Zhizn_Rupy_i_Sanatany.md) no editors found
+- [](../output/03-md-yml/01/1983.03.17_SridharMj_Istinnaya_jizn_vozmojna_tolko_v_tom_izmerenii.md) no editors found
+- [](../output/03-md-yml/01/1983.03.17_SridharMj_Istinnaya_jizn_vozmojna_tolko_v_tom_izmerenii.md) possible unrecognized editor line (name "Лочан Дас" found): "[^1]:  «Грешные, низкие, падшие и несчастные не желали этой божественной любви, но мой Господь Нитай умолял их принять эту высшую форму божественной любви, обрести которую очень трудно даже Брахме» (Шрила Лочан Дас Тхакур, «Нитай гунамани амара», 3)."
+- [](../output/03-md-yml/01/1983.03.20_SridharMj_Vishnu_tatva.md) no editors found
+- [](../output/03-md-yml/01/1983.03.28_SridharMj_GoswamiMj_predstavlyaet_SridharuMj_novuyu_knigu.md) no editors found
+- [](../output/03-md-yml/01/1983.03.28_SridharMj_GoswamiMj_predstavlyaet_SridharuMj_novuyu_knigu.md) title extracted from header: "Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»"
+- [](../output/03-md-yml/01/1983.03.29_SridharMj_Umeret_chtobi_jit.md) no editors found
+- [](../output/03-md-yml/01/1983.03.30_SridharMj_Koncepciya_Mahaprabhu.md) no editors found
+- [](../output/03-md-yml/01/1983.03.31_SridharMj_Visshee_ustremlenie.md) no editors found
+- [](../output/03-md-yml/01/1983.04.01_SridharMj_Gradaciya_svyawennyh_pisaniy.md) no editors found
+- [](../output/03-md-yml/01/1983.04.02_SridharMj_Kultura_propovedi.md) no editors found
+- [](../output/03-md-yml/01/1983.04.15_SridharMj_Podlinnoe_obrawenie_dushi_k_Bogu.md) no editors found
+- [](../output/03-md-yml/01/1983.04.16_SridharMj_Bog_vsegda_prihodit_na_pomow_prosyawemu.md) no editors found
+- [](../output/03-md-yml/01/1983.04.17_SridharMj_Svyaz_s_visshey_lichnostyu_.md) no editors found
+- [](../output/03-md-yml/01/1983.04.23_SridharMj_Materialniy_mir_osnovan_na_expluatacii.md) no editors found
+- [](../output/03-md-yml/01/1983.04.25_SridharMj_Osvobojdenie_dushi.md) no editors found
+- [](../output/03-md-yml/01/1983.04.29_SridharMj_Nevozmojno_obmanut_Boga.md) no editors found
+- [](../output/03-md-yml/01/1983.04.30_SridharMj_Priroda_religii.md) no editors found
+- [](../output/03-md-yml/01/1983.05.04_SridharMj_Rabstvo_absolutu.md) no editors found
+- [](../output/03-md-yml/01/1983.05.05_SridharMj_Duscha_-_chastica_vechnoy_potencii_Gospoda.md) no editors found
+- [](../output/03-md-yml/01/1983.05.06_SridharMj_Smirenie-kvalifikaciya_predannogo.md) no editors found
+- [](../output/03-md-yml/01/1983.05.08_SridharMj_Duhovniy_put_prodoljattsya_iz_jizni_v_jizn.md) no editors found
+- [](../output/03-md-yml/01/1983.05.09.A_SridharMj_Samoe_cennoe_yavlenie.md) no editors found
+- [](../output/03-md-yml/01/1983.05.10_SridharMj_Gradaciya_uchiteley.md) no editors found
+- [](../output/03-md-yml/01/1983.05.11_SridharMj_Koncepciya_bezgranichnogo.md) no editors found
+- [](../output/03-md-yml/01/1983.05.12_SridharMj_Merilom_lubvi_slujit_jertvennost.md) no editors found
+- [](../output/03-md-yml/01/1983.05.23_SridharMj_Polojenie_dushi_obretshey_svyaz_s_Bogom.md) no editors found
+- [](../output/03-md-yml/01/1983.05.24_SridharMj_Nrisimhadev.md) no editors found
+- [](../output/03-md-yml/01/1983.06.05_SridharMj_Dvijeniya_Lyubvi_izvilisty.md) no editors found
+- [](../output/03-md-yml/01/1983.06.09_SridharMj_Realnaya_i_voobrajaemaya_predannost.md) no editors found
+- [](../output/03-md-yml/01/1983.06.10_SridharMj_Universalnaya_Volna.md) no editors found
+- [](../output/03-md-yml/01/1983.06.21_Chayaniya_nashih_serdec_ustremleny_k_Krasote.md) no editors found
+- [](../output/03-md-yml/01/1983.06.27_SridharMj_Daje_ogranichennaya_vera_mojet_svyazat_nas_s_Bezgranichnym.md) no editors found
+- [](../output/03-md-yml/01/1983.07.08_SridharMj_Centrostremitelnyyi_Potok.md) no editors found
+- [](../output/03-md-yml/01/1983.07.18_SridharMj_Vspomogatelnye_sredstva_na_puti_predannosti.md) no editors found
+- [](../output/03-md-yml/01/1983.07.19_SridharMj_Aprakrita-sverhsubektivnyyi_mir.md) no editors found
+- [](../output/03-md-yml/01/1983.07.25_SridharMj_Igra_chudesnogo_Absoluta.md) no editors found
+- [](../output/03-md-yml/01/1983.07.28_SridharMj_Dusha_est_pyl_mira_soznaniya.md) no editors found
+- [](../output/03-md-yml/01/1983.07.30_SridharMj_Mayaki_Bezgranichnogo.md) no editors found
+- [](../output/03-md-yml/01/1984.01.08_SridharMj_Vnutrennyaya_priroda_Mahaprabhu.md) no editors found
+- [](../output/03-md-yml/01/1984.01.15_SridharMj_Poisk_schastya.md) no editors found
+- [](../output/03-md-yml/01/1984.01.18_SridharMj_Garmoniya_vysshego_mira.md) no editors found
+- [](../output/03-md-yml/01/1984.01.23_SridharMJ_Uchonoe_nevejestvo.md) no editors found
+- [](../output/03-md-yml/01/1984.01.25.A_SridharMj_Gospodstvuyuschee_i_podchinennoe_nachala.md) no editors found
+- [](../output/03-md-yml/01/1985.05.01_SridharMj_Starayites_obresti_soznanie_Krishny.md) no editors found
+- [](../output/03-md-yml/01/1985.06.09_SridharMj_Dinamichnoe_Yavlenie.md) no editors found
+- [](../output/03-md-yml/01/1985.07.03_SridharMj_Volya_Gospoda.md) no editors found
+- [](../output/03-md-yml/01/1985.10.04_SridharMj_Bog_tvorit_chudesa.md) no editors found
+- [](../output/03-md-yml/01/1985.11.07_SridharMj_Slava_Govindy_Maharaja.md) no editors found
+- [](../output/03-md-yml/01/1987_SridharMj_Bog_vsegda_vysche_nas.md) no editors found
+- [](../output/03-md-yml/01/1987_SridharMj_Polojenie_Guru.md) no editors found
+- [](../output/03-md-yml/01/1987_SridharMj_Polojenie_Guru.md) title extracted from header: "SridharMj_Polojenie_Guru"
+- [](../output/03-md-yml/02/1982.01.01.A.md) no editors found
+- [](../output/03-md-yml/02/1982.02.23.С.D%20(Nachalo%20MPR6.7-6.9).md) comment override: "(Nachalo MPR6.7-6.9)" → "(Начало MPR6.7-6.9)" (from filename-titles map)
+- [](../output/03-md-yml/02/1982.02.24.A2.md) title extracted from header: "(неверная дата)"
+- [](../output/03-md-yml/02/1982.11.08.B2.md) title extracted from header: "Вриндаван - это место, которое хранит на себе следы стоп Шримати Радхарани"
+- [](../output/03-md-yml/02/1983.11.14.A.B1.md) no editors found
+- [](../output/03-md-yml/03/1981.09.01.B.C_ru.md) title extracted from header: "Духовные чувства Господа. Беседа о гуру-таттве ч.1"
+- [](../output/03-md-yml/03/1981.09.02.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.09.02.A_ru.md) title extracted from header: "Беседа о гуру-таттве ч.2. Непостижимая многомерность Кришна-лилы"
+- [](../output/03-md-yml/03/1981.09.05.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.09.05.B_ru.md) title extracted from header: "Насколько реально мироздание? Вера и майя"
+- [](../output/03-md-yml/03/1981.09.11.B.C_ru.md) title extracted from header: "Смарана и киртана. Вайшнавская философия смирения"
+- [](../output/03-md-yml/03/1981.09.12.A.B_ru.md) title extracted from header: "Жизнь Шрилы Бхактивиноды Тхакура"
+- [](../output/03-md-yml/03/1981.09.15.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.09.15.A_ru.md) title extracted from header: "Многомерность духовных личностей. Преображение майявади"
+- [](../output/03-md-yml/03/1981.09.19.A.B_ru.md) title extracted from header: "Комментарий к стиху 9.32 Гиты. Вторая мировая война"
+- [](../output/03-md-yml/03/1981.09.20.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.09.20.A.B_ru.md) title extracted from header: "Социальный долг и духовность. Шукадев в гаура-лиле"
+- [](../output/03-md-yml/03/1981.09.21.AB_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.09.21.AB_ru.md) title extracted from header: "Сандхини, самвит, хладини. Связь Рукмини с ватсалья-расой ч.1"
+- [](../output/03-md-yml/03/1981.09.22.AB_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.09.22.AB_ru.md) title extracted from header: "Связь Рукмини с ватсалья-расой ч.2. Духи и святая Дхама"
+- [](../output/03-md-yml/03/1981.09.23.A_ru.md) title extracted from header: "Величие Сварупы Дамодара и Нитьянанды Прабху"
+- [](../output/03-md-yml/03/1981.09.25.A_ru.md) title extracted from header: "Нитьянанда и Вишварупа. Негативное самоощущение обладателя бхакти"
+- [](../output/03-md-yml/03/1981.09.29.A.B_ru.md) title extracted from header: "Богатство разлуки с Кришной ч. 2. Ценность юности для вайшнавов"
+- [](../output/03-md-yml/03/1981.10.01.B_ru.md) title extracted from header: "Обзор Рамананда-самвады. Величие любви в разлуке"
+- [](../output/03-md-yml/03/1981.10.02.A.B.C_ru.md) title extracted from header: "Нектар Святого Имени. Уровни воспевания и значение Маха-мантры"
+- [](../output/03-md-yml/03/1981.10.03.A.B_ru.md) title extracted from header: "Неуклонно следуя Махапрабху. 'Бхагаватам' о четырёх целях человеческой жизни"
+- [](../output/03-md-yml/03/1981.10.04.A.B_ru.md) title extracted from header: "Ямуначарья и Рамануджа. Школы кошки и обезьяны"
+- [](../output/03-md-yml/03/1981.10.05.B_ru.md) title extracted from header: "Стих о птице чатаке и восьмой стих Шикшаштаки"
+- [](../output/03-md-yml/03/1981.10.05.C.D_ru.md) title extracted from header: "Нет риска --- нет выигрыша. Величие садху-санги"
+- [](../output/03-md-yml/03/1981.10.06.A_ru.md) title extracted from header: "Поэзия Говинды Даса и Бхактивинода. Использовать окружающее в служении Кришне"
+- [](../output/03-md-yml/03/1981.10.06.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.06.B.C_ru.md) title extracted from header: "Знакомство с деяниями Шри Чайтаньи и приход в Гаудия Матх"
+- [](../output/03-md-yml/03/1981.10.07.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.07.A.B_ru.md) title extracted from header: "Публикация 'Прапанна Дживанамритам'. Комментарий к Упадешамрите 7"
+- [](../output/03-md-yml/03/1981.10.08.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.08.A_ru.md) title extracted from header: "Условия для отвержения Гуру. Три критерия прогресса и три симптома отклонения"
+- [](../output/03-md-yml/03/1981.10.08.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.08.B_ru.md) title extracted from header: "Издание книг и распространение славы Имени. Служение Божественному Звуку"
+- [](../output/03-md-yml/03/1981.10.10.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.10.A_ru.md) title extracted from header: "На высшей стадии всё связано с Кришной. Гопала-гаятри и кама-гаятри"
+- [](../output/03-md-yml/03/1981.10.10.B1_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.10.B1_ru.md) title extracted from header: "Соотношение посвящения и личности. Ачарья --- слуга своего Гурудева"
+- [](../output/03-md-yml/03/1981.10.12.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.12.B_ru.md) title extracted from header: "Ущербность эмпирического знания. Отвержение и принятие"
+- [](../output/03-md-yml/03/1981.10.19.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.19.A.B_ru.md) title extracted from header: "Красота идеала. Суть и форма духовной организации"
+- [](../output/03-md-yml/03/1981.10.28_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.28_ru.md) title extracted from header: "Бытие в трех гунах. Исполнение желания Сарасвати Тхакура"
+- [](../output/03-md-yml/03/1981.10.30.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.30.A_ru.md) title extracted from header: "Обозначение словами цифр. Божества самбандхи, абхидеи и прайоджаны"
+- [](../output/03-md-yml/03/1981.10.30.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.10.30.B.C_ru.md) title extracted from header: "Всеобъемлющая и сладостная раса. Кришна --- слуга Своих рабов"
+- [](../output/03-md-yml/03/1981.11.01.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.01.A_ru.md) title extracted from header: "Шримад Бхагаватам --- ниргуна-пурана. Два типа имитаторов"
+- [](../output/03-md-yml/03/1981.11.02.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.02.B_ru.md) title extracted from header: "Йоги, бхакты и гьяни. 'Бхагаватам' о положении планет"
+- [](../output/03-md-yml/03/1981.11.02.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.02.C_ru.md) title extracted from header: "Философия чуда. Отношение вайшнавов к сиддхам и Саи Бабе"
+- [](../output/03-md-yml/03/1981.11.03.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.03.A.B.C_ru.md) title extracted from header: "Как относиться к несовершенствам вайшнавов. Об астрологии"
+- [](../output/03-md-yml/03/1981.11.05.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.05.A.B.C_ru.md) title extracted from header: "Отношения полов, свободные от чувственности. Пять уровней знания"
+- [](../output/03-md-yml/03/1981.11.06.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.06.A_ru.md) title extracted from header: "Этапы погружения дживы в майю и подлинное освобождение"
+- [](../output/03-md-yml/03/1981.11.06.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.06.B_ru.md) title extracted from header: "Поиск Прекрасной Реальности и семейной жизни во Вриндаване"
+- [](../output/03-md-yml/03/1981.11.07.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.07.A_ru.md) title extracted from header: "Акбар и Пратап Сингх. Спор о природе Шри Мурти: 'Бхагаватам' 12.13.11-12"
+- [](../output/03-md-yml/03/1981.11.07.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.07.B_ru.md) title extracted from header: "Истинный смысл Веданты. Болезнь сердца: пожертвование для Матха в Мадрасе"
+- [](../output/03-md-yml/03/1981.11.09.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.09.A.B.C_ru.md) title extracted from header: "Поиск высшего Счастья и развитой формы Красоты. Качество личности превыше организации"
+- [](../output/03-md-yml/03/1981.11.10.B1.2_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.10.B1.2_ru.md) title extracted from header: "Золотой Аватар. Таинственное воплощение"
+- [](../output/03-md-yml/03/1981.11.11.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.11.A.B.C_ru.md) title extracted from header: "Служить слуге Кришны. Свакия и паракия. Джагадананда Пандит"
+- [](../output/03-md-yml/03/1981.11.12.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.12.C_ru.md) title extracted from header: "Особенности высшего уровня духовной реальности. Природа ума"
+- [](../output/03-md-yml/03/1981.11.13.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.13.A.B_ru.md) title extracted from header: "Молитвы Уддхавы, Рупы и Рагхунатха даса Госвами. Уникальное положение Шримати Радхарани. Рупануга-самрадайя"
+- [](../output/03-md-yml/03/1981.11.13.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.13.C_ru.md) title extracted from header: "Дхарма и мокша в 'Бхагаватам'. Связь через послушание"
+- [](../output/03-md-yml/03/1981.11.14.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.14.A.B.C_ru.md) title extracted from header: "Исполнение желания Бхактивинода. Быть слугой гуру или представителем публики"
+- [](../output/03-md-yml/03/1981.11.15.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.15.A_ru.md) title extracted from header: "Почему уход Шри Чайтаньи не описан. Подробности эпизода с раздеванием Драупади"
+- [](../output/03-md-yml/03/1981.11.15.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.15.B_ru.md) title extracted from header: "Служение возвышенному вайшнаву превыше личного бхаджана и поклонения Божествам"
+- [](../output/03-md-yml/03/1981.11.17.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.17.A_ru.md) title extracted from header: "Единство и различие Кришны, Его проявлений и дживы. Материальный и духовный ум"
+- [](../output/03-md-yml/03/1981.11.17.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.17.B_ru.md) title extracted from header: "Вечное существование Кришны, майи и положение дживы. Заблуждения гаура-нагари"
+- [](../output/03-md-yml/03/1981.11.18.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.18.A_ru.md) title extracted from header: "Идеал определяет судьбу. Вечность в настоящем. Два мистических опыта в кресле"
+- [](../output/03-md-yml/03/1981.11.18.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.18.B.C_ru.md) title extracted from header: "Ученые лишили жизнь очарования. Уникальные преданность, чувства и поведение Махапрабху"
+- [](../output/03-md-yml/03/1981.11.21.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.21.A.B_ru.md) title extracted from header: "Божество Махапрабху и царь Кришначандра. Три типа счастья. Произведения Вишванатха Чакраварти Тхакура"
+- [](../output/03-md-yml/03/1981.11.23.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.23.A_ru.md) title extracted from header: "Вкус жизни и духовный голод. Только измерение ниргуны является безопасным"
+- [](../output/03-md-yml/03/1981.11.23.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.23.C_ru.md) title extracted from header: "Похититель сердец. Стих Билвамангала"
+- [](../output/03-md-yml/03/1981.11.24.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.24.A.B.C_ru.md) title extracted from header: "Четыре признака дхармы. Шри Упадешамрита 1, 2, 4. Шесть философских школ Индии"
+- [](../output/03-md-yml/03/1981.11.25.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.25.A_ru.md) title extracted from header: "Как духовный учитель определяет уровень учеников. Сохраняется ли связь с гуру после его ухода"
+- [](../output/03-md-yml/03/1981.11.25.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.25.B_ru.md) title extracted from header: "Выбор и смена гуру. Санньяса Махапрабху. Рамананда Рай как Вишакха сакхи"
+- [](../output/03-md-yml/03/1981.11.26.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.26.A.B.C_ru.md) possible unrecognized editor line (name "Лочан Дас" found): "[^24]:  «Грешные, низкие, падшие и несчастные не желали этой божественной любви, но мой Господь Нитай умолял их принять эту высшую форму божественной любви, обрести которую очень трудно даже Брахме» (Шрила Лочан Дас Тхакур, «Нитай гунамани амара», 3)."
+- [](../output/03-md-yml/03/1981.11.26.A.B.C_ru.md) title extracted from header: "Бхагат Сингх и Ганди. Заблуждения сакхи-бекхи. Молитва Мадхавендры Пури"
+- [](../output/03-md-yml/03/1981.11.28.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.28.A.B.C_ru.md) title extracted from header: "Сокровенный смысл мантр санньяси и бабаджи. Предавшийся Господу не может совершить оскорблений"
+- [](../output/03-md-yml/03/1981.11.29.A.0_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.29.A.0_ru.md) title extracted from header: "Смысл триданды. Объяснение имени Мукунда. История брахмана из Аванти"
+- [](../output/03-md-yml/03/1981.11.30.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.30.A_ru.md) title extracted from header: "Признание Шукадева. Четыре вида разлуки. О медитации на самбхогу и випраламбху"
+- [](../output/03-md-yml/03/1981.11.30.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.11.30.B_ru.md) title extracted from header: "Милость Нитьянанды -- фундамент здания преданности. Пранама-мантра к гуру Рагхунатха Даса Госвами"
+- [](../output/03-md-yml/03/1981.12.01.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.01.A_ru.md) title extracted from header: "Что такое Веды"
+- [](../output/03-md-yml/03/1981.12.09.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.09.A_ru.md) title extracted from header: "Препятствия на духовном пути. Посланник Вриндавана превыше Параматмы"
+- [](../output/03-md-yml/03/1981.12.09.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.09.B_ru.md) title extracted from header: "Преодолеть животное сознание. Причины расхождений в Писаниях"
+- [](../output/03-md-yml/03/1981.12.12.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.12.A_ru.md) title extracted from header: "Путь к идеалу. Нисхождение Высшего Сознания"
+- [](../output/03-md-yml/03/1981.12.12.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.12.B_ru.md) title extracted from header: "Трансцендентная география. Простота --- качество брахманов"
+- [](../output/03-md-yml/03/1981.12.13.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.13.A_ru.md) title extracted from header: "Ганди и Ауробиндо. Два первых стиха 'Ману-самхиты'"
+- [](../output/03-md-yml/03/1981.12.13.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.13.B_ru.md) title extracted from header: "Преданность, свободная от корысти и расчета. Величие женского начала"
+- [](../output/03-md-yml/03/1981.12.13.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.13.C_ru.md) title extracted from header: "В материальном мире нет абсолютного блага. Наказание шудры Рамачандрой"
+- [](../output/03-md-yml/03/1981.12.14.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.14.A.B_ru.md) title extracted from header: "'Безумные речи' ачарьи. Гаудия-вайшнавы и мадхва-сампрадайя"
+- [](../output/03-md-yml/03/1981.12.16.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.16.B_ru.md) title extracted from header: "Милость Господа, искренность и подтверждение сердца в поиске Гуру"
+- [](../output/03-md-yml/03/1981.12.19.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.19.A_ru.md) title extracted from header: "Воздержание и половая связь, свободная от наслаждения чувств"
+- [](../output/03-md-yml/03/1981.12.21.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.21.A.B_ru.md) title extracted from header: ""Рудра-Шива и Сада-Шива. Смысл брахманского посвящения для вайшнавов""
+- [](../output/03-md-yml/03/1981.12.22.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.22.A.B.C_ru.md) title extracted from header: "Служение гуру вблизи и на расстоянии. Ценность «Прапанна-дживанамритам»"
+- [](../output/03-md-yml/03/1981.12.23.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.23.A.B_ru.md) title extracted from header: "Градация преданности. Стих о величии шаранагати. Явление Божеств во сне"
+- [](../output/03-md-yml/03/1981.12.24.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.24.A.B_ru.md) title extracted from header: "Красота и Любовь --- это Первопричина. Почему Кали изображают попирающей Шиву"
+- [](../output/03-md-yml/03/1981.12.27.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.27.A.B.C_ru.md) title extracted from header: "Встреча Махапрабху с Санатаной. Наследие Госвами. Темперамент Лалиты Деви"
+- [](../output/03-md-yml/03/1981.12.29.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.29.A_ru.md) title extracted from header: "История Парикшита в 'Махабхарате' и 'Бхагаватам'. Рамануджа и храм Баладжи"
+- [](../output/03-md-yml/03/1981.12.29.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.29.B.C_ru.md) title extracted from header: "Занять негативные побуждения в служении. Общество садху позволит превзойти майю"
+- [](../output/03-md-yml/03/1981.12.30.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.30.A.B_ru.md) title extracted from header: "Главное и второстепенное для воспевания Кришна-Нама. Рага-марг и виддхи-марг"
+- [](../output/03-md-yml/03/1981.12.30.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.30.C_ru.md) title extracted from header: "Шри Чайтанья в поэзии Дживы Госвами и Шридхара Махараджа. О соблюдении Экадаши"
+- [](../output/03-md-yml/03/1981.12.31.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.31.A_ru.md) title extracted from header: "Как определить, кто чистый преданный. Кришна --- полуцивилизованный вайшья"
+- [](../output/03-md-yml/03/1981.12.31.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1981.12.31.B.C_ru.md) title extracted from header: "Пять ступеней духовной практики. Взаимодействие внутреннего и внешнего гуру"
+- [](../output/03-md-yml/03/1982.08.05.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.05.A_ru.md) title extracted from header: "Материя не поможет духу. Природа Абсолюта. Обратно к Богу"
+- [](../output/03-md-yml/03/1982.08.05.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.05.B_ru.md) title extracted from header: "Йога и вайшнавизм"
+- [](../output/03-md-yml/03/1982.08.19.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.19.A_ru.md) title extracted from header: "Слава и преданность Нимая Пандита. Величие Туласи. Неблагоприятные периоды и служение Кришне"
+- [](../output/03-md-yml/03/1982.08.19.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.19.B_ru.md) title extracted from header: "Физические страдания вайшнавов и Господа"
+- [](../output/03-md-yml/03/1982.08.22.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.22.B_ru.md) title extracted from header: "Интоксикация и духовная практика"
+- [](../output/03-md-yml/03/1982.08.24.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.24.A_ru.md) title extracted from header: "Революционный дух Шрилы Сарасвати Тхакура. Самолучезарное явление устраняет все сомнения"
+- [](../output/03-md-yml/03/1982.08.27.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.27.A.B.C_ru.md) title extracted from header: "Явление Лалиты Деви и Шримати Радхарани. Самодержавная природа Абсолюта"
+- [](../output/03-md-yml/03/1982.08.29.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.29.A.B.C_ru.md) title extracted from header: "Немцы и ведическая культура"
+- [](../output/03-md-yml/03/1982.08.31.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.31.B.C_ru.md) title extracted from header: "Положение Харидаса Тхакура и значение имен 'Кришна' и 'Рама'. Шива-таттва и дхама-таттва"
+- [](../output/03-md-yml/03/1982.08.31.B_after_82.08.29.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.08.31.B_after_82.08.29.C_ru.md) title extracted from header: "(after 82.08.29.C) Великодушие преданных Нараяны. Смирение - начало шаранагати"
+- [](../output/03-md-yml/03/1982.09.03.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.03.A_ru.md) title extracted from header: "Дух служения -- истинная ценность. Самый великодушный Господь"
+- [](../output/03-md-yml/03/1982.09.04.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.04.A.B_ru.md) title extracted from header: "Необходимость исключительной преданности Кришне. Объяснение Рамануджи. Всеблагой мир Вайкунтхи"
+- [](../output/03-md-yml/03/1982.09.05.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.05.A_ru.md) title extracted from header: "Природа бхакти и её покрытия. История о прокаженном брахмане. Отношение Радхарани к оппозиционным группам гопи"
+- [](../output/03-md-yml/03/1982.09.05.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.05.B_ru.md) title extracted from header: "Осознание независимости души от материи. Самые близкие отношения Безграничного и ограниченного"
+- [](../output/03-md-yml/03/1982.09.06.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.06.A_ru.md) title extracted from header: "Всеведущий, вездесущий, любящий. 'Не прославлять и не критиковать' -- пограничная позиция. Четыре уникальных качества Кришны"
+- [](../output/03-md-yml/03/1982.09.06.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.06.B_ru.md) title extracted from header: "Суть гаудия-вайшнавизма в шлоке Вишванатха Чакраварти. Роль Йогамайи в гьяна-шунья-бхакти. Внешняя и внутренняя стороны безумия Махапрабху"
+- [](../output/03-md-yml/03/1982.09.08.A1_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.08.A1_ru.md) title extracted from header: "Инструменты для киртана. Особое положение дева-даси"
+- [](../output/03-md-yml/03/1982.09.08.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.09.08.A_ru.md) title extracted from header: "Заблуждение последователей Шанкары. Две молитвы Рагхунатха Даса Госвами"
+- [](../output/03-md-yml/03/1982.09.29.B30.md) no editors found
+- [](../output/03-md-yml/03/1982.09.29.B30.md) title extracted from header: "Истинная свобода"
+- [](../output/03-md-yml/03/1982.10.01.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.01.A.B_ru.md) title extracted from header: "Мирское и божественное Имя. Противоположные начала в органичном Целом"
+- [](../output/03-md-yml/03/1982.10.06.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.06.A_ru.md) title extracted from header: "Другая сторона реальности"
+- [](../output/03-md-yml/03/1982.10.08.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.08.A.B_ru.md) title extracted from header: "Два уровня предложения деяний Господу. Нектар любви к Богу, интоксикации и духовные практики"
+- [](../output/03-md-yml/03/1982.10.10.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.10.A.B.C_ru.md) title extracted from header: "Придуманные мантры. Беседа Шуки и Шари"
+- [](../output/03-md-yml/03/1982.10.12.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.12.A_ru.md) title extracted from header: "Чувства Шримати Радхарани в служении. Субал-милан"
+- [](../output/03-md-yml/03/1982.10.12.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.12.B_ru.md) title extracted from header: "Сокровенный дар Махапрабху. Сарвабхаума и Рамананда"
+- [](../output/03-md-yml/03/1982.10.17.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.17.A_ru.md) title extracted from header: "Освобождение врагов Кришны и майявади"
+- [](../output/03-md-yml/03/1982.10.17.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.17.B_ru.md) title extracted from header: "Уничтожение ложного эго. Редкий дар сознания Кришны"
+- [](../output/03-md-yml/03/1982.10.20.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.20.A.B_ru.md) title extracted from header: "Роль убийства демонов в кришна-лиле. Кришна и Чайтанья как Сваям Бхагаван и юга-аватары"
+- [](../output/03-md-yml/03/1982.10.21.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.21.A.B_ru.md) title extracted from header: "Самбандха, абхидея, прайоджана и Божества ШЧСМ"
+- [](../output/03-md-yml/03/1982.10.22.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.22.A.B_ru.md) title extracted from header: "Качества шакты, шайва и вайшнава. Уровни развития бхакти. Служение и садхана"
+- [](../output/03-md-yml/03/1982.10.23.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.23.A_ru.md) title extracted from header: "Арчан-прадхан, шабда-прадхан и карма-прадхан. Акценты в служении Господу вайшнавских сампрадай"
+- [](../output/03-md-yml/03/1982.10.23.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.23.B_ru.md) title extracted from header: "Без связи с Вайшнавом невозможно преодолеть майю. Главная составляющая шаранагати. Танец Махапрабху"
+- [](../output/03-md-yml/03/1982.10.24.A.B1_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.10.24.A.B1_ru.md) title extracted from header: "Положение брахма-бхуты. Величие свободной от знания преданности"
+- [](../output/03-md-yml/03/1982.10.25.A.md) no editors found
+- [](../output/03-md-yml/03/1982.10.25.A.md) title extracted from header: "Два типа препятствий при произнесении Святого Имени. Христианство и учение Шанкары"
+- [](../output/03-md-yml/03/1982.10.25.B.md) no editors found
+- [](../output/03-md-yml/03/1982.10.25.B.md) title extracted from header: "Красота -- Владычица. Два типа гордости. Непостижимое тождество и различие"
+- [](../output/03-md-yml/03/1982.10.27.AB.md) no editors found
+- [](../output/03-md-yml/03/1982.10.27.AB.md) title extracted from header: "Философия мадхва-сампрадайи. Вайшнавы против майявады. Различные типы героя"
+- [](../output/03-md-yml/03/1982.10.28.A.md) no editors found
+- [](../output/03-md-yml/03/1982.10.28.A.md) title extracted from header: "Природа поиска Шри Кришны. Оппозиция Бала Кришне"
+- [](../output/03-md-yml/03/1982.10.29.ABC.md) no editors found
+- [](../output/03-md-yml/03/1982.10.29.ABC.md) title extracted from header: "Рагхунатх Бхатта, Рагхунатх Дас и Кришнадас Кавирадж Госвами"
+- [](../output/03-md-yml/03/1982.10.30.AB.md) no editors found
+- [](../output/03-md-yml/03/1982.10.30.AB.md) title extracted from header: "Прогрессивная и динамичная умиротворенность. Объяснение понятия 'Godhead'. Пять категорий знания"
+- [](../output/03-md-yml/03/1982.11.01.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.01.B_ru.md) title extracted from header: "Бхактивинод об отвержении материалистичных учений. Священник, ставший привидением"
+- [](../output/03-md-yml/03/1982.11.02.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.02.A_ru.md) title extracted from header: "О 'Према-виварте'. Шикша-гуру парампара. Вкус позволит обрести связь с Центром"
+- [](../output/03-md-yml/03/1982.11.02.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.02.B_ru.md) title extracted from header: "История Рамануджи и Курета. Доказательство существования души и Бога"
+- [](../output/03-md-yml/03/1982.11.08.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.08.C_ru.md) title extracted from header: "Духовное видение на разной глубине. Как высочайшие преданные сливаются с Богом"
+- [](../output/03-md-yml/03/1982.11.11.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.11.A_ru.md) title extracted from header: "Высшее предназначено для низшего при отсутствии имитации"
+- [](../output/03-md-yml/03/1982.11.12.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.12.A_ru.md) title extracted from header: "'Вы когда-нибудь видели Кришну?' Почему вайшнавы отвергают уединенную медитацию"
+- [](../output/03-md-yml/03/1982.11.12.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.12.B_ru.md) title extracted from header: "Различия во взглядах Шанкары и ачарьев-вайшнавов"
+- [](../output/03-md-yml/03/1982.11.13.C.D_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.13.C.D_ru.md) title extracted from header: "Милость Господа к заблудшим преданным. Беседа о Мирабаи, Сурдасе и Мадхвачарье"
+- [](../output/03-md-yml/03/1982.11.14.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.14.A_ru.md) title extracted from header: "Без преданности Кришне философия, литература и долгая жизнь бессмысленны"
+- [](../output/03-md-yml/03/1982.11.15.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.15.A.B_ru.md) title extracted from header: "Будда и Шанкара. Индия --- высшая школа теизма. Жизнь Харивамши"
+- [](../output/03-md-yml/03/1982.11.15.C.D_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.15.C.D_ru.md) title extracted from header: "Любовь к Богу пребывает за пределами имитации, контроля чувств и мистических сил"
+- [](../output/03-md-yml/03/1982.11.16.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.16.A.B_ru.md) title extracted from header: "Говардхан-лила. Объяснение стиха 10.26.25 'Шримад Бхагаватам'"
+- [](../output/03-md-yml/03/1982.11.17.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.17.A_ru.md) title extracted from header: "Духовный путь в 11-й песне 'Бхагаватам'. Сарасвати Тхакур о проповеди на Западе"
+- [](../output/03-md-yml/03/1982.11.17.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.17.B.C_ru.md) title extracted from header: "Этапы на пути к раге. Мироздание как молоко и сливки. Об употреблении мяса"
+- [](../output/03-md-yml/03/1982.11.18.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.18.A.B_ru.md) title extracted from header: "Соотнесение принципов 'множества гуру' и 'получения знаний из одного источника'"
+- [](../output/03-md-yml/03/1982.11.18.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.18.C_ru.md) title extracted from header: "Сладость звука усиливает красоту образа. Визиты Свами Махараджа в ШЧСМ"
+- [](../output/03-md-yml/03/1982.11.19.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.19.A.B_ru.md) title extracted from header: "Гаудия Матх и отношения Шридхара Махараджа с Бхактиведантой Свами Прабхупадой"
+- [](../output/03-md-yml/03/1982.11.19.C.D_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.19.C.D_ru.md) title extracted from header: "Высочайшее количественное и качественное достижение. Рамануджа, Мадхва, Нимбарка и Шри Чайтанья"
+- [](../output/03-md-yml/03/1982.11.20.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.20.A_ru.md) title extracted from header: "Обсуждение книг 'Субъективная эволюция сознания' и 'Шри Гуру и его милость'"
+- [](../output/03-md-yml/03/1982.11.20.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.20.B_ru.md) title extracted from header: "Дайва-варнашрама. Три вида посвящения. Незримая поддержка свыше"
+- [](../output/03-md-yml/03/1982.11.21.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.21.A.B_ru.md) title extracted from header: "Вайшнавизм и христианство. Причины воплощения души в теле животного"
+- [](../output/03-md-yml/03/1982.11.23.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.23.A_ru.md) title extracted from header: "Пробуждение души в мире преданности. Пять типов отношений с Абсолютным Благом и Красотой"
+- [](../output/03-md-yml/03/1982.11.23.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.23.B_ru.md) title extracted from header: "Причины почитания коровы. Связь с Кришной дарует наивысшее благо всем"
+- [](../output/03-md-yml/03/1982.11.24.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.24.A.B_ru.md) title extracted from header: "День ухода Шриниваса Ачарьи, Дхананджаи Пандита и Гададхара Даса"
+- [](../output/03-md-yml/03/1982.11.25.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.25.A.B_ru.md) title extracted from header: "Джива Госвами о величии 'Шримад Бхагаватам'. Связь душ со Шримати Радхарани"
+- [](../output/03-md-yml/03/1982.11.26.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.26.A.B_ru.md) title extracted from header: "Превыше логики и разума. Встреча Пандавов с Дхармараджем в образе птицы"
+- [](../output/03-md-yml/03/1982.11.27.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.27.A_ru.md) title extracted from header: "Истина откровения многомерна. Молитва о прибежище --- суть самопредания"
+- [](../output/03-md-yml/03/1982.11.27.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.27.B_ru.md) title extracted from header: "Служить Гуру безопасней, чем быть Гуру. Этапы духовного прогресса. Трансформация окружения"
+- [](../output/03-md-yml/03/1982.11.27.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.27.C_ru.md) title extracted from header: "Природа шанта-расы. День ухода Гауракишора Даса Бабаджи"
+- [](../output/03-md-yml/03/1982.11.28.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.28.A.B_ru.md) title extracted from header: "Реальность, превосходящая мир души. Молитва Билвамангала. Гопи о видении Кришны"
+- [](../output/03-md-yml/03/1982.11.28.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.28.C_ru.md) title extracted from header: "Искренняя нужда --- богатство преданного. Спасение от пожара материального существования"
+- [](../output/03-md-yml/03/1982.11.29.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.29.A.B_ru.md) title extracted from header: "Тело --- болезнь души. Различные концепции счастья и причины поклонения Кришне"
+- [](../output/03-md-yml/03/1982.11.30.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.11.30.A.B_ru.md) title extracted from header: "Наслаждение чувств и счастье служения Абсолютному Благу"
+- [](../output/03-md-yml/03/1982.12.03.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.03.A.B_ru.md) title extracted from header: "Цель жизни, объекты и практика поклонения гаудия-вайшнавов"
+- [](../output/03-md-yml/03/1982.12.04.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.04.A.B_ru.md) title extracted from header: "Дурваса и Амбариш. Три аспекта проповеди Сарасвати Тхакура. Домохозяева парамахамсы"
+- [](../output/03-md-yml/03/1982.12.06.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.06.A.B_ru.md) possible unrecognized editor line (name "Лочан Дас" found): "[^19]:  «Произнеся эти слова, Он [Нитьянанда Прабху] падает на землю, и кажется, будто огромный золотой валун перекатывается в пыли» (Шрила Лочан Дас Тхакур, «Акродха парамананда», 4)."
+- [](../output/03-md-yml/03/1982.12.06.A.B_ru.md) title extracted from header: "Глубочайшее и высочайшее измерение жизни души. Быстрый и медленный прогресс"
+- [](../output/03-md-yml/03/1982.12.07.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.07.A_ru.md) title extracted from header: "Истина и заблуждение необходимы для лилы. Многообразие Органического Целого. Сладостный дом"
+- [](../output/03-md-yml/03/1982.12.07.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.07.B.C_ru.md) title extracted from header: "Использовать всё в служении Господу. Важен не объем жертвы, а качество. О даива-варнашраме"
+- [](../output/03-md-yml/03/1982.12.08.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.08.A.B_ru.md) title extracted from header: "Шри Чайтанья-чандрамрита 54 и 19. Стих Вишванатха. Разлука -- испытание подлинности любви"
+- [](../output/03-md-yml/03/1982.12.09.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.09.A_ru.md) title extracted from header: "Правильное отношение к священным Писаниям и метод их изучения"
+- [](../output/03-md-yml/03/1982.12.09.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.09.B.C_ru.md) title extracted from header: "Осознание Бога освобождает от страданий и тревог. Об убийстве коров, людей и растений"
+- [](../output/03-md-yml/03/1982.12.10.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.10.A_ru.md) title extracted from header: "Условия для нисхождения Святого Имени. Реальность за пределами ума, интеллекта и души"
+- [](../output/03-md-yml/03/1982.12.10.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.10.B_ru.md) title extracted from header: "Суть и виды ягьи. Различные формы проповеди. Капля божественной любви"
+- [](../output/03-md-yml/03/1982.12.11.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.11.B_ru.md) title extracted from header: "Воспринимать реальность как божественную игру. Мнимое насилие и подлинная боль души"
+- [](../output/03-md-yml/03/1982.12.11.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.11.C_ru.md) title extracted from header: "Железный век №28. Как увеличить искренность и сделать живыми разные виды служения"
+- [](../output/03-md-yml/03/1982.12.12.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.12.A_ru.md) title extracted from header: "О создании книг с комментариями к трудам Бхактиведанты Свами Прабхупады"
+- [](../output/03-md-yml/03/1982.12.12.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.12.B_ru.md) title extracted from header: "Изначальное положение души. Цель аскезы для вайшнава. Заблуждения сахаджиев"
+- [](../output/03-md-yml/03/1982.12.12.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.12.C_ru.md) title extracted from header: "Гуру должен обладать описанными в шастрах качествами. Почитатели шакти, святых и освобождения"
+- [](../output/03-md-yml/03/1982.12.14.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.14.A_ru.md) title extracted from header: "Положение Шивы -- на границе миров. Заблуждения и жестокость существуют лишь на поверхности реальности"
+- [](../output/03-md-yml/03/1982.12.14.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.14.B_ru.md) title extracted from header: "Речь Говинды Махараджа на открытии Чандродая Мандира. Примеры отвержения и три типа гуру"
+- [](../output/03-md-yml/03/1982.12.15.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.15.A_ru.md) title extracted from header: "Намёк Шри Чайтаньи собранию пандитов майавади"
+- [](../output/03-md-yml/03/1982.12.16.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.16.A.B.C_ru.md) title extracted from header: "Веды, Упанишады и Бхагаватам. Даша-мула-таттва Бхактивинода. Ядерная война и подлинный прогресс"
+- [](../output/03-md-yml/03/1982.12.17.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.17.A.B_ru.md) title extracted from header: "Путешествие к земле божественной любви. 'Бхагавад-гита' о превосходстве и величии преданности Кришне"
+- [](../output/03-md-yml/03/1982.12.18.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.18.A_ru.md) title extracted from header: "Как принять и практиковать Сознание Кришны"
+- [](../output/03-md-yml/03/1982.12.18.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.18.B_ru.md) title extracted from header: "Поэтический стиль 'Према-дхама-дева-стотрам'. Как обрести связь с Безграничным"
+- [](../output/03-md-yml/03/1982.12.19.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.19.A_ru.md) title extracted from header: "Особое положение храма Джаганнатха. Две стороны вайшнавской санньясы. Устраняется ли карма при посвящении"
+- [](../output/03-md-yml/03/1982.12.19.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.19.B.C_ru.md) title extracted from header: "Приводить к гуру высшего типа. Воспоминания о посещении ШЧСМ женщинами из ИСККОН"
+- [](../output/03-md-yml/03/1982.12.22.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.22.A_ru.md) title extracted from header: "Отличие санньясы и тьяги. Воля Говинды и свобода дживы"
+- [](../output/03-md-yml/03/1982.12.22.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.22.B_ru.md) title extracted from header: "Совет 'Бхагавад-гиты'. Бунт против Абсолюта. Чудесная природа Безграничного"
+- [](../output/03-md-yml/03/1982.12.23.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.23.A_ru.md) title extracted from header: "Две группы преданных, обозначаемые выражением 'гаура-бхакта-вринда'"
+- [](../output/03-md-yml/03/1982.12.23.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.23.B.C_ru.md) title extracted from header: "Служение Кришне и законы общества. Проповедники должны быть осторожны. Искренность, шастра и садху -- основа прогресса"
+- [](../output/03-md-yml/03/1982.12.25.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.25.A.B_ru.md) title extracted from header: "О книге 'Возрождение движения Чайтаньи'. О настроении и уровне вопросов для Шридхара Махараджа"
+- [](../output/03-md-yml/03/1982.12.25.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.25.C_ru.md) title extracted from header: "Величие карма-йоги и смирения. Три уровня преданных. Три качества для соприкосновения с играми Кришны и гопи"
+- [](../output/03-md-yml/03/1982.12.26.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.26.A.B_ru.md) title extracted from header: "Иисус -- пример самозабвения. Объяснение третьего стиха 'Упадешамриты'"
+- [](../output/03-md-yml/03/1982.12.26.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.26.C_ru.md) title extracted from header: "Объяснение второго и первого стихов 'Упадешамриты'. Комментарий к высказыванию Иисуса о женихе"
+- [](../output/03-md-yml/03/1982.12.27.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.27.A.B.C_ru.md) title extracted from header: "Градация духовной реальности. Брахман и Брахма. Об уходе Махапрабху. Древнейшая история и родство языков"
+- [](../output/03-md-yml/03/1982.12.28.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.28.A_ru.md) title extracted from header: "Два пути души. Положение обитателей Сатья-локи. Хари привлекает даже тех, кто самоудовлетворен"
+- [](../output/03-md-yml/03/1982.12.28.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.28.B.C_ru.md) title extracted from header: "Тысячи дел, не связанные с Центром. Жизнь Ямуначарьи. Кришна -- брахмачари и постящийся Дурваса"
+- [](../output/03-md-yml/03/1982.12.31.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.31.A_ru.md) title extracted from header: "История Мурти Гауридаса Пандита и Вишнуприи. Трансформация интенсивных тонких явлений в грубые. Свет и тьма взаимосвязаны в Абсолюте"
+- [](../output/03-md-yml/03/1982.12.31.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1982.12.31.B_ru.md) title extracted from header: "Градация душ, пребывающих в мире материи. Почему Кришна носит желтые одежды. Радхарани и Дурга Деви"
+- [](../output/03-md-yml/03/1983.08.06.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.06.B_ru.md) title extracted from header: "Памятование о Кришне устраняет всю скверну. Пусть Бог будет вором"
+- [](../output/03-md-yml/03/1983.08.07.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.07.A.B_ru.md) title extracted from header: "Нисхождение Высшего Бытия. Тест духовного развития в 'Бхагаватам'. Превосходящие мирскую роскошь"
+- [](../output/03-md-yml/03/1983.08.08.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.08.B_ru.md) title extracted from header: "Определения истинной религии и преданности. Учение о дживе, Брахмане, майе и Личности Бога. Пять уровней знания"
+- [](../output/03-md-yml/03/1983.08.08.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.08.C_ru.md) title extracted from header: "(without 83.08.09.ABC) Прекрасная Реальность -- дар для тех, кто лишен зависти. Жертва бедняка может превосходить жертву богатого"
+- [](../output/03-md-yml/03/1983.08.09.C.D_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.09.C.D_ru.md) title extracted from header: "Универсальное лекарство. Атеизм опасней аморальности. Связь души с Голокой и Кришной"
+- [](../output/03-md-yml/03/1983.08.10.A_1983.08.XX_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.10.A_1983.08.XX_ru.md) title extracted from header: "(1983.08.XX) Ученики школы преданности не должны потворствовать прихотям. Главная болезнь -- диагноз Махапрабху"
+- [](../output/03-md-yml/03/1983.08.13.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.13.A_ru.md) title extracted from header: "Акбар о Кришне Вриндавана. Ценность рождения человеком. Окружение более милостиво, чем Центр"
+- [](../output/03-md-yml/03/1983.08.18_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.18_ru.md) title extracted from header: "Зарабатывание денег не должно наносить вред репутации Миссии и достоинству Гурудева"
+- [](../output/03-md-yml/03/1983.08.19_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.19_ru.md) title extracted from header: "Обсуждение перевода выражения 'Гаудия-даршан'. Связь гаудий с северным вайшнавизмом"
+- [](../output/03-md-yml/03/1983.08.20.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.20.A_ru.md) title extracted from header: "Имя Радхарани сокровенно. Строки из поэмы об уходе Сарасвати Тхакура. Понимание бессмертия сознания -- основа всех религий"
+- [](../output/03-md-yml/03/1983.08.25.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.25.B_ru.md) title extracted from header: "Осознать, что всё принадлежит Господу, и обрести отношения с Ним. Свобода и следование указаниям в служении. Пунья и сукрити. Кайвалья в 'Бхагаватам'"
+- [](../output/03-md-yml/03/1983.08.28.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.28.B.C_ru.md) title extracted from header: "Безраздельное и беспримесное предание Кришне -- наш высший долг. Совет 'Бхагавад-гиты' и 'Рамаяна'"
+- [](../output/03-md-yml/03/1983.08.30.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.30.A.B_ru.md) title extracted from header: "Природа Сваям Бхагавана. Великодушие Говардхана и Святого Имени"
+- [](../output/03-md-yml/03/1983.08.31.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.08.31.A.B_ru.md) title extracted from header: "Превзойти очарование мира материи. Этапы духовного пути. Кришну почитают вместе с Его преданными"
+- [](../output/03-md-yml/03/1983.09.01.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.01.A_ru.md) title extracted from header: "Объяснение пранама-мантры Шри Чайтанья Сарасват Матха. Три предсказания. Рагхупати Упадхьяя о высшей цели жизни"
+- [](../output/03-md-yml/03/1983.09.01.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.01.B.C_ru.md) title extracted from header: "Рагхупати Упадхйайа и Парикшит о Кришне Вриндавана. Смысл варнашрамы. Великая удача необходима для поиска Шри Кришны"
+- [](../output/03-md-yml/03/1983.09.07.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.07.A_ru.md) title extracted from header: "Нисхождение Писаний. Сладостный дом. Терпение и способность прощать позволят пройти по пути, подобному лезвию бритвы"
+- [](../output/03-md-yml/03/1983.09.09.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.09.A_ru.md) title extracted from header: "Конфликты преданных как часть лилы. Принцип асура-мохан. Непостижимая природа деяний Кришны"
+- [](../output/03-md-yml/03/1983.09.11.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.11.A.B_ru.md) title extracted from header: "Смысл гуру-пуджи. Сократ и Христос. Домашний уют"
+- [](../output/03-md-yml/03/1983.09.14.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.14.C_ru.md) title extracted from header: "Фрагмент посвящения в воспевание Святого Имени"
+- [](../output/03-md-yml/03/1983.09.16.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.16.A_ru.md) title extracted from header: "Однонаправленный разум и разновидности йоги в 'Бхагавад-гите'"
+- [](../output/03-md-yml/03/1983.09.20.A.B.C.md) no editors found
+- [](../output/03-md-yml/03/1983.09.20.A.B.C.md) title extracted from header: "Сломать печать на сердце. Апракрита-лила Кришны. Песня Бхактивиноды и поэма, посвященная Бхактивиноду"
+- [](../output/03-md-yml/03/1983.09.21.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.21.A_ru.md) title extracted from header: "Высший тип помощи обществу. Не быть привязанным к месту и людям в служении Кришне"
+- [](../output/03-md-yml/03/1983.09.21.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.21.B_ru.md) title extracted from header: "Общество возвышенного вайшнава редко достижимо. Почему люди Сатья-юги жаждут родиться в эпоху Кали"
+- [](../output/03-md-yml/03/1983.09.22.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.22.A.B_ru.md) title extracted from header: "Уход Харидаса Тхакура. Шридхар Махарадж объясняет написанные им пранама-мантры. О поклонении Божествам"
+- [](../output/03-md-yml/03/1983.09.22.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.22.C_ru.md) title extracted from header: "Бхара-вахи и сара-грахи. Киртан превыше арчаны. Два метода познания. Принцип ачинтья-бхеда-абхеда"
+- [](../output/03-md-yml/03/1983.09.23.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.23.A_ru.md) title extracted from header: "Чистота вайшнава превыше физических и ментальных изъянов. 'Болезни' Махапрабху и Кришны"
+- [](../output/03-md-yml/03/1983.09.28.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.09.28.C_ru.md) title extracted from header: "Глубокое погружение Махапрабху в сознание Кришны. Милость Нитьянанды подразумевает милость Гауранги"
+- [](../output/03-md-yml/03/1983.10.05.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.05.A_ru.md) title extracted from header: "Заблуждения и подлинный вайшнавизм. Сарасвати Тхакур о восприятии своего гуру. Жить тонкими явлениями"
+- [](../output/03-md-yml/03/1983.10.05.B.C.md) no editors found
+- [](../output/03-md-yml/03/1983.10.05.B.C.md) title extracted from header: "Природа Безграничного. Статья 'Шри Гуру и его милость'. Близкие отношения с Бхактиведантой Свами. Ведические Писания о человеке, мире материи и духовной Реальности"
+- [](../output/03-md-yml/03/1983.10.11.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.11.A_ru.md) title extracted from header: "Быть признательным внутренней жажде и садху. От неосознаваемого обретения веры до вступления в семью Бога"
+- [](../output/03-md-yml/03/1983.10.13.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.13.A.B_ru.md) title extracted from header: "Самодержавный танец Кришны. Абсолютный долг души. Куда приводит мантра, полученная от истинного гуру"
+- [](../output/03-md-yml/03/1983.10.14.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.14.A.B_ru.md) title extracted from header: "Истинная гьяна. 'Гита' и 'Бхагаватам' об отношении к миру. Этапы на пути и практики для достижения царства Кришны"
+- [](../output/03-md-yml/03/1983.10.16.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.16.A.B_ru.md) title extracted from header: "Говорить приятную правду. Позор и величие человечества. Безграничное как ноль. Подтверждение из сердца"
+- [](../output/03-md-yml/03/1983.10.16.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.16.C_ru.md) title extracted from header: "Мадхва-сампрадая и гаудия-сампрадая"
+- [](../output/03-md-yml/03/1983.10.18.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.18.A_ru.md) title extracted from header: "Десять оскорблений и четыре вида 'тени' Святого Имени"
+- [](../output/03-md-yml/03/1983.10.20.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.20.A.B_ru.md) title extracted from header: "Могущество смирения и ненасилия. Истина -- это Личность. Диктат совести относителен"
+- [](../output/03-md-yml/03/1983.10.21.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.21.A_ru.md) title extracted from header: "Цель сосуществования душ, подобных Дроне и Дхаре, с душами Нанды и Яшоды"
+- [](../output/03-md-yml/03/1983.10.22.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.22.A_ru.md) title extracted from header: "Сарасвати Тхакур и Рагхунатх Дас Госвами о правильном отношении к духовной реальности"
+- [](../output/03-md-yml/03/1983.10.22.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.22.B_ru.md) title extracted from header: "Связь безграничного и ограниченного в Абсолюте. Рабство у чувств и прибежище у Господа"
+- [](../output/03-md-yml/03/1983.10.23.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.23.A.B_ru.md) title extracted from header: "Альвары и два типа шаранагати. Логика -- враг богооткровенной истины. Качества духовного учителя и ученика"
+- [](../output/03-md-yml/03/1983.10.25.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.25.A_ru.md) title extracted from header: "Садхана являет внутреннее богатство. Око Хранителя. Олицетворяющий любовь и одаривающий любовью Кришна"
+- [](../output/03-md-yml/03/1983.10.27.A.B.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.27.A.B.C_ru.md) possible unrecognized editor line (name "Лочан Дас" found): "[^6]:  «Произнеся эти слова, Он [Нитьянанда Прабху] падает на землю, и кажется, будто огромный золотой валун перекатывается в пыли» (Шрила Лочан Дас Тхакур, «Акродха парамананда», 4)."
+- [](../output/03-md-yml/03/1983.10.27.A.B.C_ru.md) title extracted from header: "Жизнь и уход Нароттама Даса Тхакура. Рамачандра и Говинда Дас"
+- [](../output/03-md-yml/03/1983.10.28.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.28.A.B_ru.md) title extracted from header: "Совместная программа Говинды Махараджа и Свами Прабхупады. Веды -- откровения святых. Ручи, сукрити и шраддха превыше знания"
+- [](../output/03-md-yml/03/1983.10.29.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.29.A_ru.md) title extracted from header: "Трансцендентный звук. 10 оскорблений и 4 вида теневого воспевания Святого Имени. Порядок слов и значение маха-мантры"
+- [](../output/03-md-yml/03/1983.10.29.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.29.B_ru.md) title extracted from header: "Правильное отношение к оппозиции, риск и выигрыш на духовном пути. Множество хранителей-вайшнавов -- наше богатство"
+- [](../output/03-md-yml/03/1983.10.29.C1_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.29.C1_ru.md) title extracted from header: "В соответствии со степенью прогресса Гуру предстает в новом образе. Почему Кришна скрылся от Радхарани, если Он покоряется преданным"
+- [](../output/03-md-yml/03/1983.10.29.C2.D_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.29.C2.D_ru.md) title extracted from header: "Прахлада и Абхиманью -- пример джатишваров. Почему в конце 'Бхагаватам' выражается почтение Курмадеву"
+- [](../output/03-md-yml/03/1983.10.30.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.30.A_ru.md) title extracted from header: "Обратно к Богу, обратно домой!"
+- [](../output/03-md-yml/03/1983.10.30.C_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.30.C_ru.md) title extracted from header: "Взгляд гаудия-вайшнавов на Джаганнатха Пури. Виддхи-марг и рага-марг"
+- [](../output/03-md-yml/03/1983.10.31.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.10.31.A_ru.md) title extracted from header: "Фрагмент презентации книги «Шри Гуру и Его милость»"
+- [](../output/03-md-yml/03/1983.12.04.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.04.A_ru.md) title extracted from header: "Бхактивинод о сокровенном смысле стихов Бхагавад-гиты. Физические и ментальные недостатки вайшнава не влияют на его чистоту"
+- [](../output/03-md-yml/03/1983.12.09.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.09.A.B_ru.md) title extracted from header: "Санатана и Рупа Госвами о Святом Имени. Божества самбандхи, абхидеи и прайоджаны"
+- [](../output/03-md-yml/03/1983.12.14.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.14.A_ru.md) title extracted from header: "Трансцендентное и поверхностное восприятие реальности. Враг внутри"
+- [](../output/03-md-yml/03/1983.12.15.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.15.A_ru.md) title extracted from header: "Океан и облако. Явление Трансцендентной Личности в образе смертного -- лишь спектакль"
+- [](../output/03-md-yml/03/1983.12.19.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.19.A.B_ru.md) title extracted from header: "Божественная любовь Шри Чайтанья Дева останавливает иные формы деятельности, являя сокровенную концепцию Абсолюта"
+- [](../output/03-md-yml/03/1983.12.20.A.B.md) no editors found
+- [](../output/03-md-yml/03/1983.12.20.A.B.md) title extracted from header: "(without 83.12.22.A0) Этапы раскрытия Святого Имени. Кришна-лила и гаура-лила. Лалита, Вишакха и Рупа Манджари"
+- [](../output/03-md-yml/03/1983.12.22.A0.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.22.A0.A_ru.md) title extracted from header: "Вишнуприя, Лакшмиприя и Гададхар. Два аспекта Туласи. Почему Шри Чайтанья отправился в паломничество по Южной Индии"
+- [](../output/03-md-yml/03/1983.12.22.B.С_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.22.B.С_ru.md) title extracted from header: "Дарители высочайшей концепции Абсолюта"
+- [](../output/03-md-yml/03/1983.12.23.C.D_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.23.C.D_ru.md) title extracted from header: "Самоанализ различных типов. Бхаджан и бходжан. Нитьянанда, Гауранга и Радха-Говинда"
+- [](../output/03-md-yml/03/1983.12.29.A_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.29.A_ru.md) title extracted from header: "Значения слов маха-мантры. Служение Радхарани выше прямого служения Кришне. Быть слугой слуги"
+- [](../output/03-md-yml/03/1983.12.29.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.29.B_ru.md) title extracted from header: "Ответ Господа зависит от искренности обращения. Этапы духовной практики. Шанкара и Рамануджа"
+- [](../output/03-md-yml/03/1983.12.30.A.B_ru.md) no editors found
+- [](../output/03-md-yml/03/1983.12.30.A.B_ru.md) title extracted from header: "Наставления при посвящении в воспевание Святого Имени"
+- [](../output/03-md-yml/03/1984.01.08.A.B1_ru.md) no editors found
+- [](../output/03-md-yml/03/1984.01.08.A.B1_ru.md) title extracted from header: "Духовный прогресс, отвержение и принятие гуру. Использование фисгармонии в киртане. Настроение при воспевании Святого Имени"
