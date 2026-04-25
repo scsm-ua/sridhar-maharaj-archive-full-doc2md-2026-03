@@ -2,6 +2,5 @@ input/
 node_modules/
 03-md-yml/warnings-*.log
 03-md-yml/errors-*.md
-/output/04-rename/docs
 /output/04-rename/mp3
 .DS_Store
