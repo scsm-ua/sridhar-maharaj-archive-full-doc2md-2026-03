@@ -58,6 +58,7 @@ function extractAuthor(content) {
     cursor++;
   }
 
+  errors.push(`No author found`);
   return { content, meta: {}, modified: false, warnings, errors };
 }
 

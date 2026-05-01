@@ -96,8 +96,8 @@ Each output file gains a `---` YAML block at the top. A chain of extractor plugi
 | `title` | First non-ID heading line; falls back to the filename slug |
 | `title_from_filename` | Slug extracted from the filename when the document has no explicit title |
 | `date` | Derived from `record_id` (`year`, `month`, `day`) |
-| `legacy_filename` | Original filename stem (used to locate the MP3) |
-| `override_mp3` | Manually specified MP3 filename when auto-matching fails |
+| `legacy.filename` | Original filename stem (used to locate the MP3) |
+| `legacy.mp3` | Manually specified MP3 filename when auto-matching fails |
 | `editors` | Names extracted from an "editors" header inside the document |
 
 **Additional helper scripts in step 03:**

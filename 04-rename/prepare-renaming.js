@@ -67,9 +67,9 @@ config.groups.forEach(group => {
     // Docs rename mapping
     docsRename[`${group.input}/${file}`] = `${config.output.docs}/${getMDFilename(meta)}`;
 
-    // MP3 rename mapping: prefer override_mp3, fall back to legacy_filename
-    const overrideMp3 = meta.override_mp3;
-    const legacyFilename = meta.legacy_filename;
+    // MP3 rename mapping: prefer legacy.mp3, fall back to legacy.filename
+    const overrideMp3 = meta.legacy && meta.legacy.mp3;
+    const legacyFilename = meta.legacy && meta.legacy.filename;
     const mp3File = overrideMp3 || (legacyFilename ? `${legacyFilename}.mp3` : null);
     if (mp3File) {
       if (fs.existsSync(path.join(mp3Dir, mp3File))) {

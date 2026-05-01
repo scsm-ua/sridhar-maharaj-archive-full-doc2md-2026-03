@@ -1,6 +1,10 @@
 ---
 record_id: 1980.07.11
-mp3: 1980/07/1980.07.11_ru.mp3
+slug: 1980-07-11_negativnoe_sluzhit_pozitivnomu
+audio:
+  bytes: 37232355
+  duration: '01:01:47'
+  mp3: 1980/07/1980.07.11_ru.mp3
 date:
   year: 1980
   month: 7
@@ -9,8 +13,9 @@ title: Зов флейты Кришны. Нектар жизни для пред
 title_from_filename: Негативное служит позитивному
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
-override_mp3: 1980.07.11_SridharMj_Negativnoe_slujit_pozitivnomu.mp3
-legacy_filename: 1980_07_11_SridharMj_Negativnoe_slujit_pozitivnomu
+legacy:
+  mp3: 1980.07.11_SridharMj_Negativnoe_slujit_pozitivnomu.mp3
+  filename: 1980_07_11_SridharMj_Negativnoe_slujit_pozitivnomu
 ---
 
 **Джаятиртха Махарадж(?):** Китайский язык... И отец этого юноши --- врач, который получил образование в Германии до наступления коммунистического режима. Он говорит на немецком, на китайском и на английском. Это будет трудно --- победа над Китаем. Но Господь Чайтанья поместил Своих последователей, Своих людей по всему миру. Поэтому когда движение «Харе Кришна» распространится, то в России...

@@ -54,4 +54,4 @@ function applyRename(renameMapPath, label) {
 }
 
 applyRename(config.output.docs_rename, 'Docs');
-applyRename(config.output.mp3_rename, 'MP3s');
+// applyRename(config.output.mp3_rename, 'MP3s');

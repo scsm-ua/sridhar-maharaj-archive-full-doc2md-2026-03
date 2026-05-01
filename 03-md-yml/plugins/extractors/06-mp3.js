@@ -6,7 +6,7 @@ Format (3 lines per entry):
   - https://...default.mp3   (original/default URL — ignored)
   - https://...real.mp3      (override URL — OR "none" to skip)
 
-Sets meta.override_mp3 to the third-line URL when it is not "none".
+Sets meta.legacy.mp3 to the third-line URL when it is not "none".
 */
 
 const fs   = require('fs');
@@ -53,7 +53,7 @@ function extractMp3Override(content, fileName) {
   }
   return {
     content,
-    meta: { override_mp3: override },
+    meta: { legacy: { mp3: override } },
     modified: true,
   };
 }

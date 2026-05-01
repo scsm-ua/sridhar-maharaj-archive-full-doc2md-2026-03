@@ -15,9 +15,11 @@ const { extractTitle } = require('./extractors/04-title');
 const { extractTitleByFilename } = require('./extractors/05-title-by-filename');
 const { extractEditors } = require('./extractors/01-editors');
 const { extractMp3Override } = require('./extractors/06-mp3');
+const { extractAudioMeta } = require('./extractors/10-audio-meta');
 const { fixRecordIdPlugin } = require('./extractors/07-fix-record-id');
 const { validateRecordId } = require('./extractors/08-record-id-validator');
 const { recordIdToDate } = require('./extractors/09-recored-id-to-date');
+const { generateSlug } = require('./extractors/11-slug');
 const { finalCleanup } = require('./extractors/99-last');
 
 // Plugin registry - add new plugins here
@@ -60,8 +62,15 @@ const PLUGINS = [
   {
     name: 'mp3-override',
     statusKey: 'mp3OverrideExtracted',
-    statusMessage: 'override_mp3 set',
+    statusMessage: 'legacy.mp3 set',
     execute: (content, fileName) => extractMp3Override(content, fileName),
+    hasWarnings: true,
+  },
+  {
+    name: 'audio-meta',
+    statusKey: 'audioMetaExtracted',
+    statusMessage: 'audio meta set',
+    execute: (content, fileName, currentMeta) => extractAudioMeta(content, fileName, currentMeta),
     hasWarnings: true,
   },
   {
@@ -83,6 +92,13 @@ const PLUGINS = [
     statusKey: 'recordIdToDateDone',
     statusMessage: 'date extracted from record_id',
     execute: (content, fileName, currentMeta) => recordIdToDate(content, fileName, currentMeta),
+    hasWarnings: true,
+  },
+  {
+    name: 'slug',
+    statusKey: 'slugGenerated',
+    statusMessage: 'slug generated',
+    execute: (content, fileName, currentMeta) => generateSlug(content, fileName, currentMeta),
     hasWarnings: true,
   },
   {
@@ -146,17 +162,17 @@ function processMarkdown(content, fileName) {
 
 // Desired key order in YAML frontmatter; unlisted keys appear before the last listed key
 const META_KEY_ORDER = [
-  'record_id', 
-  'mp3',
+  'record_id',
+  'slug',
+  'audio',
   'date', 
   'title', 
   'title_from_filename', 
   'comment', 
   'author', 
-  'lang', 
+  'lang',
   'editors', 
-  'override_mp3', 
-  'legacy_filename'];
+  'legacy'];
 
 /**
  * Returns a copy of meta with keys sorted according to META_KEY_ORDER.
