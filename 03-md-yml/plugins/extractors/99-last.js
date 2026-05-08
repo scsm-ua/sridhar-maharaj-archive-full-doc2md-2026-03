@@ -16,7 +16,7 @@ const { getMP3Filename } = require('../../../utils');
  * @param {Object} currentMeta
  * @returns {{ content: string, meta: Object, modified: boolean, warnings: string[], errors: string[] }}
  */
-function finalCleanup(content, fileName, currentMeta) {
+function finalCleanup(content, fileName, currentMeta, config = {}) {
   const meta = {};
 
   meta.legacy = {
@@ -25,7 +25,9 @@ function finalCleanup(content, fileName, currentMeta) {
   };
   meta.lang = 'ru';
 
-  const canonicalMp3 = getMP3Filename({...currentMeta, ...meta});
+  const mp3Filename = getMP3Filename({...currentMeta, ...meta});
+  const mp3Prefix = config.mp3_prefix || '';
+  const canonicalMp3 = `${mp3Prefix}${mp3Filename}`;
   meta.audio = {
     ...(currentMeta.audio || {}),
     mp3: canonicalMp3,

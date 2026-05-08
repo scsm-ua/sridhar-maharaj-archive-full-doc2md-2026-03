@@ -1,11 +1,12 @@
 function getFilenameBase(meta) {
-    const year = meta.date.year;
-    const month = meta.date.month;
+    const date_bits = meta.date.split('-');
+    const year = date_bits[0];
+    const month = date_bits[1];
     let filename_base;
-    if (month) {
-      filename_base = `${year}/${String(month).padStart(2, '0')}/${meta.record_id}`;
+    if (month && parseInt(month)) {
+        filename_base = `${year}/${String(month).padStart(2, '0')}/${meta.record_id}`;
     } else {
-      filename_base = `${year}/${meta.record_id}`;
+        filename_base = `${year}/${meta.record_id}`;
     }
     return filename_base;
 }

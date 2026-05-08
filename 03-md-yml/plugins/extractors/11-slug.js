@@ -83,7 +83,7 @@ function generateSlug(content, fileName, currentMeta = {}) {
     return { content, meta: {}, modified: false, warnings, errors };
   }
 
-  const title = currentMeta.title_from_filename || currentMeta.title;
+  const title = (currentMeta.legacy && currentMeta.legacy.title_from_filename) || currentMeta.title;
 
   const idPart = recordId.toLowerCase().replace(/\./g, '-');
   const titlePart = title ? limitTitleSlug(toSlugPart(title)) : '';

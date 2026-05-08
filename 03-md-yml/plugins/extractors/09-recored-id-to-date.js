@@ -8,6 +8,14 @@ Make date object:
 meta.date = {year: , month:, day:} - last two optional.
 */
 
+function extractDate(date_obj) {
+    if (date_obj?.year) {
+    const m = date_obj.month ? String(date_obj.month).padStart(2, '0') : '00';
+    const d = date_obj.day ? String(date_obj.day).padStart(2, '0') : '00';
+    return `${date_obj.year}-${m}-${d}`;
+  }
+}
+
 /**
  * @param {string} content
  * @param {string} fileName
@@ -33,21 +41,23 @@ function recordIdToDate(content, fileName, currentMeta) {
     return { content, meta: {}, modified: false, warnings, errors };
   }
 
-  const date = { year };
+  const date_obj = { year };
 
   if (parts.length >= 2 && !/X/i.test(parts[1])) {
     const month = parseInt(parts[1], 10);
     if (month && !isNaN(month)) {
-      date.month = month;
+      date_obj.month = month;
 
       if (parts.length >= 3 && !/X/i.test(parts[2])) {
         const day = parseInt(parts[2], 10);
         if (day && !isNaN(day)) {
-          date.day = day;
+          date_obj.day = day;
         }
       }
     }
   }
+
+  const date = extractDate(date_obj);
 
   return {
     content,

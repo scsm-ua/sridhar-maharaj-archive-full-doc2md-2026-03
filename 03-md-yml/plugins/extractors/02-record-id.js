@@ -88,10 +88,10 @@ function extractRecordId(content, fileName) {
     if (/^[(a-zA-Z0-9]/.test(foundTitle) && fileName.toLowerCase().indexOf(foundTitle.toLowerCase()) === -1) {
       const comment_re = foundTitle.match(/^(\([^)]+\))\s(.+)/);
       if (comment_re) {
-        meta.comment = comment_re[1];
+        meta.legacy = { comment: comment_re[1] };
         meta.title = comment_re[2];
       } else {
-        meta.comment = foundTitle;
+        meta.legacy = { comment: foundTitle };
       }
     } else {
       meta.title = foundTitle;

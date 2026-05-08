@@ -27,10 +27,10 @@ function extractTitleByFilename(content, fileName, currentMeta = {}) {
   const filenameCommentMatch = fileNameStem.match(/\s(\([^)]+\))$/);
   if (filenameCommentMatch) {
     const filenameComment = filenameCommentMatch[1];
-    if (currentMeta.comment) {
-      warnings.push(`comment override: "${currentMeta.comment}" → "${filenameComment}" (from filename)`);
+    if (currentMeta.legacy && currentMeta.legacy.comment) {
+      warnings.push(`comment override: "${currentMeta.legacy.comment}" → "${filenameComment}" (from filename)`);
     }
-    meta.comment = filenameComment;
+    meta.legacy = { ...(meta.legacy || {}), comment: filenameComment };
     modified = true;
   }
 
@@ -38,15 +38,15 @@ function extractTitleByFilename(content, fileName, currentMeta = {}) {
   if (entry && !entry.useTitleFromBody && entry.titleRu) {
     if (/^[(a-zA-Z]/.test(entry.titleRu)) {
       const newComment = entry.titleRu;
-      const existingComment = meta.comment || currentMeta.comment;
+      const existingComment = (meta.legacy && meta.legacy.comment) || (currentMeta.legacy && currentMeta.legacy.comment);
       if (existingComment) {
         warnings.push(`comment override: "${existingComment}" → "${newComment}" (from filename-titles map)`);
       }
-      meta.comment = newComment;
+      meta.legacy = { ...(meta.legacy || {}), comment: newComment };
     } else if (entry.useTitleFromFile || !currentMeta.title) {
       meta.title = entry.titleRu;
     } else {
-      meta.title_from_filename = entry.titleRu;
+      meta.legacy = { ...(meta.legacy || {}), title_from_filename: entry.titleRu };
     }
     modified = true;
   }

@@ -1,15 +1,14 @@
 ---
-record_id: 1987.XX.02
 slug: 1987-xx-02_polozhenie_guru
-audio:
-  bytes: 22381107
-  duration: '00:40:29'
-  mp3: 1987/1987.XX.02_ru.mp3
-date:
-  year: 1987
+record_id: 1987.XX.02
 title: Положение Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
+audio:
+  bytes: 22381107
+  duration: '00:40:29'
+  mp3: /ru/1987/1987.XX.02_ru.mp3
+date: '1987-00-00'
 legacy:
   filename: 1987_SridharMj_Polojenie_Guru
 ---

@@ -105,7 +105,7 @@ const PLUGINS = [
     name: 'last',
     statusKey: 'finalCleanupDone',
     statusMessage: 'final cleanup done',
-    execute: (content, fileName, currentMeta) => finalCleanup(content, fileName, currentMeta),
+    execute: (content, fileName, currentMeta, config) => finalCleanup(content, fileName, currentMeta, config),
     hasWarnings: true,
   },
 ];
@@ -114,9 +114,10 @@ const PLUGINS = [
  * Process markdown content through all plugins
  * @param {string} content - The markdown content to process
  * @param {string} fileName - The name of the file being processed (for logging)
+ * @param {Object} config - The config entry for the current batch
  * @returns {Object} - { content: string, meta: object, appliedPlugins: string[], warnings: string[] }
  */
-function processMarkdown(content, fileName) {
+function processMarkdown(content, fileName, config = {}) {
   let result = content;
   const meta = {};
   const status = {};
@@ -125,12 +126,16 @@ function processMarkdown(content, fileName) {
   const appliedPlugins = [];
 
   for (const plugin of PLUGINS) {
-    const pluginResult = plugin.execute(result, fileName, meta);
+    const pluginResult = plugin.execute(result, fileName, meta, config);
 
     if (pluginResult.modified) {
       result = pluginResult.content;
       if (pluginResult.meta) {
-        Object.assign(meta, pluginResult.meta);
+        const { legacy, ...rest } = pluginResult.meta;
+        Object.assign(meta, rest);
+        if (legacy) {
+          meta.legacy = { ...(meta.legacy || {}), ...legacy };
+        }
       }
       status[plugin.statusKey] = true;
       appliedPlugins.push(plugin.statusMessage);
@@ -162,17 +167,16 @@ function processMarkdown(content, fileName) {
 
 // Desired key order in YAML frontmatter; unlisted keys appear before the last listed key
 const META_KEY_ORDER = [
-  'record_id',
   'slug',
-  'audio',
-  'date', 
+  'record_id',
   'title', 
-  'title_from_filename', 
-  'comment', 
   'author', 
   'lang',
+  'audio',
+  'date', 
   'editors', 
-  'legacy'];
+  'legacy'
+];
 
 /**
  * Returns a copy of meta with keys sorted according to META_KEY_ORDER.

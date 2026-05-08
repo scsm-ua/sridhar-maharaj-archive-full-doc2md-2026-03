@@ -1,19 +1,16 @@
 ---
-record_id: 1980.07.11
 slug: 1980-07-11_negativnoe_sluzhit_pozitivnomu
+record_id: 1980.07.11
+title: Зов флейты Кришны. Нектар жизни для предавшейся души. Антитезис --- часть лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
 audio:
   bytes: 37232355
   duration: '01:01:47'
-  mp3: 1980/07/1980.07.11_ru.mp3
-date:
-  year: 1980
-  month: 7
-  day: 11
-title: Зов флейты Кришны. Нектар жизни для предавшейся души. Антитезис --- часть лилы
-title_from_filename: Негативное служит позитивному
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-lang: ru
+  mp3: /ru/1980/07/1980.07.11_ru.mp3
+date: '1980-07-11'
 legacy:
+  title_from_filename: Негативное служит позитивному
   mp3: 1980.07.11_SridharMj_Negativnoe_slujit_pozitivnomu.mp3
   filename: 1980_07_11_SridharMj_Negativnoe_slujit_pozitivnomu
 ---

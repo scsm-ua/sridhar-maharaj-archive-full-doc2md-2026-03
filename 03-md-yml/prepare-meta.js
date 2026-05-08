@@ -157,7 +157,7 @@ configsToProcess.forEach(config => {
     
     try {
       const content = fs.readFileSync(inputPath, 'utf-8');
-      const result = processMarkdown(content, file);
+      const result = processMarkdown(content, file, config);
 
       const yaml = renderYamlFrontmatter(result.meta);
       const output = yaml + result.content;

@@ -1,15 +1,14 @@
 ---
-record_id: 1987.XX.01
 slug: 1987-xx-01_bog_vsegda_vyshe_nas
-audio:
-  bytes: 22466088
-  duration: '00:41:52'
-  mp3: 1987/1987.XX.01_ru.mp3
-date:
-  year: 1987
+record_id: 1987.XX.01
 title: Бог всегда выше нас
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
+audio:
+  bytes: 22466088
+  duration: '00:41:52'
+  mp3: /ru/1987/1987.XX.01_ru.mp3
+date: '1987-00-00'
 legacy:
   filename: 1987_SridharMj_Bog_vsegda_vysche_nas
 ---
