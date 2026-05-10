@@ -1,3 +1,7 @@
+**Output data now merged to**: https://github.com/scsm-ua/sridhar-maharaj-archive
+
+This repo no longer updated.
+
 # Shridhar Maharaj Full Classes — Processing Pipeline
 
 Converts Russian lecture transcripts of Śrīla Śrīdhara Mahārāja from DOC/RTF source files into clean Markdown files with YAML frontmatter, and renames the matching MP3 audio files — all organized by a canonical `record_id` (e.g. `1981.03.07.A`).
